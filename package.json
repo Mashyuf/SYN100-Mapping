@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0",
+    "xmldom": "^0.6.0"
+  }
+}

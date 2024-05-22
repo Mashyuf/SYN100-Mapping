@@ -15,12 +15,14 @@ try {
     for(let i = 0; i < wisconsinArr.length; i++) {
         rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: wisconsinArr[i].GeoName});
         let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
-        let coordinates = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
-        console.log(coordinates);
+        let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
         folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
         folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-        
-    }
+        coordinatesStr = coordinatesStr.replaceAll('0 ', wisconsinArr[i].Income + ' ');
+        //coordinates = coordinates.replaceAll('0 \r\n', wisconsinArr[i].Income + ' \n');
+        folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr})
+        console.log(coordinatesStr);
+    };
 
     const builder = new XMLBuilder(options);
     let xml = builder.build(jObj);

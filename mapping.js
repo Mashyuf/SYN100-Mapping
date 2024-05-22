@@ -13,9 +13,14 @@ try {
     const rootFolder = jObj.kml.Document.Folder;
     let wisconsinArr = csvToArr(wisconsin, ',');
     for(let i = 0; i < wisconsinArr.length; i++) {
-        rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: wisconsinArr[i].GeoName})
+        rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: wisconsinArr[i].GeoName});
+        let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
+        let coordinates = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
+        console.log(coordinates);
+        folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
+        folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
+        
     }
-    console.log(typeof(rootFolder.Folder[0]));
 
     const builder = new XMLBuilder(options);
     let xml = builder.build(jObj);

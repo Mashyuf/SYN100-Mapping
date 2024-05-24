@@ -18,9 +18,9 @@ try {
         let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
         folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
         folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-        coordinatesStr = coordinatesStr.replaceAll('0 ', wisconsinArr[i].Income + ' ');
-        //coordinates = coordinates.replaceAll('0 \r\n', wisconsinArr[i].Income + ' \n');
-        folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr})
+        coordinatesStr = coordinatesStr.replaceAll(',0', ',' + wisconsinArr[i].Income);
+        folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
+        assignColor(rootFolder.Folder[i].Placemark, wisconsinArr[i].Income);
         console.log(coordinatesStr);
     };
 
@@ -37,6 +37,22 @@ try {
     console.log(err);
 }
 
+function assignColor(location, income) {
+    if (income < 20000) {
+        location = Object.assign(location, {styleUrl: "#USCountiesRed"});
+    } else if (income >= 20000 && income < 30000) {
+        location = Object.assign(location, {styleUrl: "USCountiesOrange"});
+    } else if (income >= 30000 && income < 40000) {
+        location = Object.assign(location, {styleUrl: "#USCountiesYellow"});
+    } else if (income >= 40000 && income < 50000) {
+        location = Object.assign(location, {styleUrl: "USCountiesLightGreen"});
+    } else if (income >= 50000 && income < 60000) {
+        location = Object.assign(location, {styleUrl: "USCountiesGreens"});
+    } else if (income >= 60000) {
+        location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
+    }
+}
+
 function csvToArr(stringVal, splitter) {
     const [keys, ...rest] = stringVal
       .trim()
@@ -49,4 +65,4 @@ function csvToArr(stringVal, splitter) {
       return object;
     });
     return formedArr;
-  }
+}

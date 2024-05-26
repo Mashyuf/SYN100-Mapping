@@ -21,7 +21,6 @@ try {
         coordinatesStr = coordinatesStr.replaceAll(',0', ',' + wisconsinArr[i].Income);
         folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
         assignColor(rootFolder.Folder[i].Placemark, wisconsinArr[i].Income);
-        console.log(coordinatesStr);
     };
 
     const builder = new XMLBuilder(options);

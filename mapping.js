@@ -5,29 +5,31 @@ const options = {
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser');
 
 try {
-    const data = fs.readFileSync('map.kml', 'utf8');
-    const wisconsin = fs.readFileSync('Table.csv', 'utf8');
+    const data = fs.readFileSync('Counties.kml', 'utf8');
+    const table = fs.readFileSync('Table.csv', 'utf8');
     const parser = new XMLParser(options);
     let jObj = parser.parse(data);
     console.log('read file success');
     const rootFolder = jObj.kml.Document.Folder;
-    let wisconsinArr = csvToArr(wisconsin, ',');
-    for(let i = 0; i < wisconsinArr.length; i++) {
-        rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: wisconsinArr[i].GeoName});
+    let tableArr = csvToArr(table, ',');
+    console.log(rootFolder.Folder[128].Placemark);
+    for(let i = 0; i < tableArr.length; i++) {
+        // rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: tableArr[i].GeoName});
         let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
+        // console.log(i);
         let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
         folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
         folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-        coordinatesStr = coordinatesStr.replaceAll(',0', ',' + wisconsinArr[i].Income);
+        coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
         folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
-        assignColor(rootFolder.Folder[i].Placemark, wisconsinArr[i].Income);
+        assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
     };
 
     const builder = new XMLBuilder(options);
     let xml = builder.build(jObj);
 
     try {
-        fs.writeFileSync('test.kml', xml)
+        fs.writeFileSync('complete-map.kml', xml)
         console.log('write file success');
     } catch (err) {
         console.log(err);

@@ -2769,6 +2769,502 @@
 	},
 	{
 		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Albany"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Allegany"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Bronx"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Broome"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Cattaraugus"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Cayuga"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Chautauqua"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Chemung"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Chenango"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Clinton"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Columbia"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Cortland"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Delaware"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Dutchess"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Erie"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Essex"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Franklin"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Fulton"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Genesee"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Greene"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Hamilton"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Herkimer"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Jefferson"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Kings"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Lewis"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Livingston"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Madison"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Monroe"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Montgomery"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Nassau"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"New York"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Niagara"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Oneida"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Onondaga"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Ontario"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Orange"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Orleans"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Oswego"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Otsego"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Putnam"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Queens"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Rensselaer"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Richmond"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Rockland"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Saratoga"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Schenectady"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Schoharie"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Schuyler"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Seneca"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"St. Lawrence"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Steuben"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Suffolk"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Sullivan"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Tioga"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Tompkins"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Ulster"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Warren"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Washington"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Wayne"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Westchester"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Wyoming"
+		]
+	},
+	{
+		"ste_name": [
+			"NY"
+		],
+		"coty_name": [
+			"Yates"
+		]
+	},
+	{
+		"ste_name": [
 			"OH"
 		],
 		"coty_name": [
@@ -3473,498 +3969,82 @@
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Albany"
+			"Belknap"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Allegany"
+			"Carroll"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Bronx"
+			"Cheshire"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Broome"
+			"Coos"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Cattaraugus"
+			"Grafton"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Cayuga"
+			"Hillsborough"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Chautauqua"
+			"Merrimack"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Chemung"
+			"Rockingham"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
-			"Chenango"
+			"Strafford"
 		]
 	},
 	{
 		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Clinton"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Columbia"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Cortland"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Delaware"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Dutchess"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Erie"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Essex"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Franklin"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Fulton"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Genesee"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Greene"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Hamilton"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Herkimer"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Jefferson"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Kings"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Lewis"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Livingston"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Madison"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Monroe"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Montgomery"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Nassau"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"New York"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Niagara"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Oneida"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Onondaga"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Ontario"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Orange"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Orleans"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Oswego"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Otsego"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Putnam"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Queens"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Rensselaer"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Richmond"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Rockland"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Saratoga"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Schenectady"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Schoharie"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Schuyler"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Seneca"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"St. Lawrence"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Steuben"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Suffolk"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
+			"NH"
 		],
 		"coty_name": [
 			"Sullivan"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Tioga"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Tompkins"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Ulster"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Warren"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Washington"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Wayne"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Westchester"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Wyoming"
-		]
-	},
-	{
-		"ste_name": [
-			"NY"
-		],
-		"coty_name": [
-			"Yates"
 		]
 	},
 	{
@@ -4137,15 +4217,167 @@
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MA"
 		],
 		"coty_name": [
-			"Belknap"
+			"Barnstable"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MA"
+		],
+		"coty_name": [
+			"Berkshire"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Bristol"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Dukes"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Essex"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Franklin"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Hampden"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Hampshire"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Middlesex"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Nantucket"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Norfolk"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Plymouth"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Suffolk"
+		]
+	},
+	{
+		"ste_name": [
+			"MA"
+		],
+		"coty_name": [
+			"Worcester"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Allegany"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Anne Arundel"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Baltimore"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Baltimore"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Calvert"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Caroline"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
 		],
 		"coty_name": [
 			"Carroll"
@@ -4153,66 +4385,1626 @@
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Cheshire"
+			"Cecil"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Coos"
+			"Charles"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Grafton"
+			"Dorchester"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Hillsborough"
+			"Frederick"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Merrimack"
+			"Garrett"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Rockingham"
+			"Harford"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Strafford"
+			"Howard"
 		]
 	},
 	{
 		"ste_name": [
-			"NH"
+			"MD"
 		],
 		"coty_name": [
-			"Sullivan"
+			"Kent"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Montgomery"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Prince George's"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Queen Anne's"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Somerset"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"St. Mary's"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Talbot"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Washington"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Wicomico"
+		]
+	},
+	{
+		"ste_name": [
+			"MD"
+		],
+		"coty_name": [
+			"Worcester"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Androscoggin"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Aroostook"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Cumberland"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Franklin"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Hancock"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Kennebec"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Knox"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Lincoln"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Oxford"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Penobscot"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Piscataquis"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Sagadahoc"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Somerset"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Waldo"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"Washington"
+		]
+	},
+	{
+		"ste_name": [
+			"ME"
+		],
+		"coty_name": [
+			"York"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Alcona"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Alger"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Allegan"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Alpena"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Antrim"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Arenac"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Baraga"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Barry"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Bay"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Benzie"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Berrien"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Branch"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Calhoun"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Cass"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Charlevoix"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Cheboygan"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Chippewa"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Clare"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Clinton"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Crawford"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Delta"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Dickinson"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Eaton"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Emmet"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Genesee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Gladwin"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Gogebic"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Grand Traverse"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Gratiot"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Hillsdale"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Houghton"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Huron"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Ingham"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Ionia"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Iosco"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Iron"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Isabella"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Jackson"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Kalamazoo"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Kalkaska"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Kent"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Keweenaw"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Lake"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Lapeer"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Leelanau"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Lenawee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Livingston"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Luce"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Mackinac"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Macomb"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Manistee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Marquette"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Mason"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Mecosta"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Menominee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Midland"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Missaukee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Monroe"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Montcalm"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Montmorency"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Muskegon"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Newaygo"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Oakland"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Oceana"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Ogemaw"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Ontonagon"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Osceola"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Oscoda"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Otsego"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Ottawa"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Presque Isle"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Roscommon"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Saginaw"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Sanilac"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Schoolcraft"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Shiawassee"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"St. Clair"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"St. Joseph"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Tuscola"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Van Buren"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Washtenaw"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Wayne"
+		]
+	},
+	{
+		"ste_name": [
+			"MI"
+		],
+		"coty_name": [
+			"Wexford"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Aitkin"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Anoka"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Becker"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Beltrami"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Benton"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Big Stone"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Blue Earth"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Brown"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Carlton"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Carver"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Cass"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Chippewa"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Chisago"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Clay"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Clearwater"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Cook"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Cottonwood"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Crow Wing"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Dakota"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Dodge"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Douglas"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Faribault"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Fillmore"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Freeborn"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Goodhue"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Grant"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Hennepin"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Houston"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Hubbard"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Isanti"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Itasca"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Jackson"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Kanabec"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Kandiyohi"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Kittson"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Koochiching"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Lac qui Parle"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Lake"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Lake of the Woods"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Le Sueur"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Lincoln"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Lyon"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Mahnomen"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Marshall"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Martin"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"McLeod"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Meeker"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Mille Lacs"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Morrison"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Mower"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Murray"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Nicollet"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Nobles"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Norman"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Olmsted"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Otter Tail"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Pennington"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Pine"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Pipestone"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Polk"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Pope"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Ramsey"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Red Lake"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Redwood"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Renville"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Rice"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Rock"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Roseau"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Scott"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Sherburne"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Sibley"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"St. Louis"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Stearns"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Steele"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Stevens"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Swift"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Todd"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Traverse"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Wabasha"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Wadena"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Waseca"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Washington"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Watonwan"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Wilkin"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Winona"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Wright"
+		]
+	},
+	{
+		"ste_name": [
+			"MN"
+		],
+		"coty_name": [
+			"Yellow Medicine"
 		]
 	},
 	{
@@ -5133,1798 +6925,6 @@
 		],
 		"coty_name": [
 			"Wright"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Aitkin"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Anoka"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Becker"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Beltrami"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Benton"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Big Stone"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Blue Earth"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Brown"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Carlton"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Carver"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Cass"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Chippewa"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Chisago"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Clay"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Clearwater"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Cook"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Cottonwood"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Crow Wing"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Dakota"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Dodge"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Douglas"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Faribault"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Fillmore"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Freeborn"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Goodhue"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Grant"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Hennepin"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Houston"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Hubbard"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Isanti"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Itasca"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Jackson"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Kanabec"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Kandiyohi"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Kittson"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Koochiching"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Lac qui Parle"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Lake"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Lake of the Woods"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Le Sueur"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Lincoln"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Lyon"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Mahnomen"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Marshall"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Martin"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"McLeod"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Meeker"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Mille Lacs"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Morrison"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Mower"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Murray"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Nicollet"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Nobles"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Norman"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Olmsted"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Otter Tail"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Pennington"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Pine"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Pipestone"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Polk"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Pope"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Ramsey"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Red Lake"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Redwood"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Renville"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Rice"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Rock"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Roseau"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Scott"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Sherburne"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Sibley"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"St. Louis"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Stearns"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Steele"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Stevens"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Swift"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Todd"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Traverse"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Wabasha"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Wadena"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Waseca"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Washington"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Watonwan"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Wilkin"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Winona"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Wright"
-		]
-	},
-	{
-		"ste_name": [
-			"MN"
-		],
-		"coty_name": [
-			"Yellow Medicine"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Alcona"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Alger"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Allegan"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Alpena"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Antrim"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Arenac"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Baraga"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Barry"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Bay"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Benzie"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Berrien"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Branch"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Calhoun"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Cass"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Charlevoix"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Cheboygan"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Chippewa"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Clare"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Clinton"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Crawford"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Delta"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Dickinson"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Eaton"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Emmet"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Genesee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Gladwin"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Gogebic"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Grand Traverse"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Gratiot"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Hillsdale"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Houghton"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Huron"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Ingham"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Ionia"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Iosco"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Iron"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Isabella"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Jackson"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Kalamazoo"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Kalkaska"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Kent"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Keweenaw"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Lake"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Lapeer"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Leelanau"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Lenawee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Livingston"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Luce"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Mackinac"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Macomb"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Manistee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Marquette"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Mason"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Mecosta"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Menominee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Midland"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Missaukee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Monroe"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Montcalm"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Montmorency"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Muskegon"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Newaygo"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Oakland"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Oceana"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Ogemaw"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Ontonagon"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Osceola"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Oscoda"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Otsego"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Ottawa"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Presque Isle"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Roscommon"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Saginaw"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Sanilac"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Schoolcraft"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Shiawassee"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"St. Clair"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"St. Joseph"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Tuscola"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Van Buren"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Washtenaw"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Wayne"
-		]
-	},
-	{
-		"ste_name": [
-			"MI"
-		],
-		"coty_name": [
-			"Wexford"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Barnstable"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Berkshire"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Bristol"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Dukes"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Essex"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Franklin"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Hampden"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Hampshire"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Middlesex"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Nantucket"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Norfolk"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Plymouth"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Suffolk"
-		]
-	},
-	{
-		"ste_name": [
-			"MA"
-		],
-		"coty_name": [
-			"Worcester"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Allegany"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Anne Arundel"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Baltimore"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Baltimore"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Calvert"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Caroline"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Carroll"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Cecil"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Charles"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Dorchester"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Frederick"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Garrett"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Harford"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Howard"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Kent"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Montgomery"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Prince George's"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Queen Anne's"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Somerset"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"St. Mary's"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Talbot"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Washington"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Wicomico"
-		]
-	},
-	{
-		"ste_name": [
-			"MD"
-		],
-		"coty_name": [
-			"Worcester"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Androscoggin"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Aroostook"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Cumberland"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Franklin"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Hancock"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Kennebec"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Knox"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Lincoln"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Oxford"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Penobscot"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Piscataquis"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Sagadahoc"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Somerset"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Waldo"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"Washington"
-		]
-	},
-	{
-		"ste_name": [
-			"ME"
-		],
-		"coty_name": [
-			"York"
 		]
 	},
 	{

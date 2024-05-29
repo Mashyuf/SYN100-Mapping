@@ -29,17 +29,3 @@ try {
 } catch (err) {
     console.log(err);
 }
-
-function csvToArr(stringVal, splitter) {
-    const [keys, ...rest] = stringVal
-      .trim()
-      .split("\r\n")
-      .map((item) => item.split(splitter));
-  
-    const formedArr = rest.map((item) => {
-      const object = {};
-      keys.forEach((key, index) => (object[key] = item.at(index)));
-      return object;
-    });
-    return formedArr;
-}

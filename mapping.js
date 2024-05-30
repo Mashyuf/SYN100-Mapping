@@ -12,17 +12,27 @@ try {
     console.log('read file success');
     const rootFolder = jObj.kml.Document.Folder;
     let tableArr = csvToArr(table, ',');
-    console.log(rootFolder.Folder[128].Placemark);
+    console.log(rootFolder.Folder.length);
+    console.log(tableArr.length);
     for(let i = 0; i < tableArr.length; i++) {
-        // rootFolder.Folder[i] = Object.assign(rootFolder.Folder[i], {name: tableArr[i].GeoName});
-        let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
-        // console.log(i);
-        let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
-        folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
-        folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-        coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
-        folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
-        assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
+        try {
+            let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
+            let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
+            folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
+            folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
+            coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
+            folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
+            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
+        } catch(err) {
+            let folder = rootFolder.Folder[i].Placemark;
+            let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
+            folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
+            folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
+            coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
+            folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
+            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
+        }
+        
     };
 
     const builder = new XMLBuilder(options);
@@ -48,7 +58,7 @@ function assignColor(location, income) {
     } else if (income >= 40000 && income < 50000) {
         location = Object.assign(location, {styleUrl: "USCountiesLightGreen"});
     } else if (income >= 50000 && income < 60000) {
-        location = Object.assign(location, {styleUrl: "USCountiesGreens"});
+        location = Object.assign(location, {styleUrl: "USCountiesGreen"});
     } else if (income >= 60000) {
         location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
     }

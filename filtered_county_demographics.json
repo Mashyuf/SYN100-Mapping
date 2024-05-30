@@ -1,0 +1,6457 @@
+[
+	{
+		"name": "adams county",
+		"state": "WI",
+		"POC": 0.0774975272007913
+	},
+	{
+		"name": "ashland county",
+		"state": "WI",
+		"POC": 0.041575632952062715
+	},
+	{
+		"name": "barron county",
+		"state": "WI",
+		"POC": 0.048426310671028205
+	},
+	{
+		"name": "bayfield county",
+		"state": "WI",
+		"POC": 0.03398510242085661
+	},
+	{
+		"name": "brown county",
+		"state": "WI",
+		"POC": 0.1543686824776406
+	},
+	{
+		"name": "buffalo county",
+		"state": "WI",
+		"POC": 0.033842375872918426
+	},
+	{
+		"name": "burnett county",
+		"state": "WI",
+		"POC": 0.03282729985727261
+	},
+	{
+		"name": "calumet county",
+		"state": "WI",
+		"POC": 0.07812094471840125
+	},
+	{
+		"name": "chippewa county",
+		"state": "WI",
+		"POC": 0.05102230195799437
+	},
+	{
+		"name": "clark county",
+		"state": "WI",
+		"POC": 0.06271927302007246
+	},
+	{
+		"name": "columbia county",
+		"state": "WI",
+		"POC": 0.06158311895988319
+	},
+	{
+		"name": "crawford county",
+		"state": "WI",
+		"POC": 0.04649432769202157
+	},
+	{
+		"name": "dane county",
+		"state": "WI",
+		"POC": 0.18372035595716074
+	},
+	{
+		"name": "dodge county",
+		"state": "WI",
+		"POC": 0.09047234144286706
+	},
+	{
+		"name": "door county",
+		"state": "WI",
+		"POC": 0.048069972531444266
+	},
+	{
+		"name": "douglas county",
+		"state": "WI",
+		"POC": 0.04069524913093859
+	},
+	{
+		"name": "dunn county",
+		"state": "WI",
+		"POC": 0.0589402221830365
+	},
+	{
+		"name": "eau claire county",
+		"state": "WI",
+		"POC": 0.08164669457026548
+	},
+	{
+		"name": "florence county",
+		"state": "WI",
+		"POC": 0.018859138533178114
+	},
+	{
+		"name": "fond du lac county",
+		"state": "WI",
+		"POC": 0.09473612951268338
+	},
+	{
+		"name": "forest county",
+		"state": "WI",
+		"POC": 0.04320302087960907
+	},
+	{
+		"name": "grant county",
+		"state": "WI",
+		"POC": 0.042905188670075235
+	},
+	{
+		"name": "green county",
+		"state": "WI",
+		"POC": 0.04594155844155844
+	},
+	{
+		"name": "green lake county",
+		"state": "WI",
+		"POC": 0.07016337968593031
+	},
+	{
+		"name": "iowa county",
+		"state": "WI",
+		"POC": 0.03585606892474026
+	},
+	{
+		"name": "iron county",
+		"state": "WI",
+		"POC": 0.020573237207666607
+	},
+	{
+		"name": "jackson county",
+		"state": "WI",
+		"POC": 0.06312067044518722
+	},
+	{
+		"name": "jefferson county",
+		"state": "WI",
+		"POC": 0.09461005792211775
+	},
+	{
+		"name": "juneau county",
+		"state": "WI",
+		"POC": 0.06302694195675798
+	},
+	{
+		"name": "kenosha county",
+		"state": "WI",
+		"POC": 0.22630203879429822
+	},
+	{
+		"name": "kewaunee county",
+		"state": "WI",
+		"POC": 0.044484682392091614
+	},
+	{
+		"name": "la crosse county",
+		"state": "WI",
+		"POC": 0.08417502711496747
+	},
+	{
+		"name": "lafayette county",
+		"state": "WI",
+		"POC": 0.05340534053405341
+	},
+	{
+		"name": "langlade county",
+		"state": "WI",
+		"POC": 0.038303194538537706
+	},
+	{
+		"name": "lincoln county",
+		"state": "WI",
+		"POC": 0.031928387634544995
+	},
+	{
+		"name": "manitowoc county",
+		"state": "WI",
+		"POC": 0.08483052886137174
+	},
+	{
+		"name": "marathon county",
+		"state": "WI",
+		"POC": 0.0994531733632049
+	},
+	{
+		"name": "marinette county",
+		"state": "WI",
+		"POC": 0.031995043370508056
+	},
+	{
+		"name": "marquette county",
+		"state": "WI",
+		"POC": 0.05098240657506099
+	},
+	{
+		"name": "menominee county",
+		"state": "WI",
+		"POC": 0.09416154521510098
+	},
+	{
+		"name": "milwaukee county",
+		"state": "WI",
+		"POC": 0.4751016679249592
+	},
+	{
+		"name": "monroe county",
+		"state": "WI",
+		"POC": 0.07644909519382527
+	},
+	{
+		"name": "oconto county",
+		"state": "WI",
+		"POC": 0.02921170577379383
+	},
+	{
+		"name": "oneida county",
+		"state": "WI",
+		"POC": 0.029329962073324903
+	},
+	{
+		"name": "outagamie county",
+		"state": "WI",
+		"POC": 0.09762354631822658
+	},
+	{
+		"name": "ozaukee county",
+		"state": "WI",
+		"POC": 0.07453402225933356
+	},
+	{
+		"name": "pepin county",
+		"state": "WI",
+		"POC": 0.03087690407575134
+	},
+	{
+		"name": "pierce county",
+		"state": "WI",
+		"POC": 0.04429994854282641
+	},
+	{
+		"name": "polk county",
+		"state": "WI",
+		"POC": 0.030171527761916724
+	},
+	{
+		"name": "portage county",
+		"state": "WI",
+		"POC": 0.07521336121630023
+	},
+	{
+		"name": "price county",
+		"state": "WI",
+		"POC": 0.03363043966744064
+	},
+	{
+		"name": "racine county",
+		"state": "WI",
+		"POC": 0.26943472347448694
+	},
+	{
+		"name": "richland county",
+		"state": "WI",
+		"POC": 0.04248782749826107
+	},
+	{
+		"name": "rock county",
+		"state": "WI",
+		"POC": 0.15736988381061986
+	},
+	{
+		"name": "rusk county",
+		"state": "WI",
+		"POC": 0.03639441388066018
+	},
+	{
+		"name": "sauk county",
+		"state": "WI",
+		"POC": 0.07457869091586233
+	},
+	{
+		"name": "sawyer county",
+		"state": "WI",
+		"POC": 0.039497523855538105
+	},
+	{
+		"name": "shawano county",
+		"state": "WI",
+		"POC": 0.04031883420132522
+	},
+	{
+		"name": "sheboygan county",
+		"state": "WI",
+		"POC": 0.1474596844113057
+	},
+	{
+		"name": "st. croix county",
+		"state": "WI",
+		"POC": 0.046026442599270016
+	},
+	{
+		"name": "taylor county",
+		"state": "WI",
+		"POC": 0.034557341591702304
+	},
+	{
+		"name": "trempealeau county",
+		"state": "WI",
+		"POC": 0.10249924112111708
+	},
+	{
+		"name": "vernon county",
+		"state": "WI",
+		"POC": 0.024690156381805203
+	},
+	{
+		"name": "vilas county",
+		"state": "WI",
+		"POC": 0.03870241045280469
+	},
+	{
+		"name": "walworth county",
+		"state": "WI",
+		"POC": 0.1352389571379058
+	},
+	{
+		"name": "washburn county",
+		"state": "WI",
+		"POC": 0.030152671755725193
+	},
+	{
+		"name": "washington county",
+		"state": "WI",
+		"POC": 0.06132290456797565
+	},
+	{
+		"name": "waukesha county",
+		"state": "WI",
+		"POC": 0.10509700691245379
+	},
+	{
+		"name": "waupaca county",
+		"state": "WI",
+		"POC": 0.04414591096293391
+	},
+	{
+		"name": "waushara county",
+		"state": "WI",
+		"POC": 0.09115084073149776
+	},
+	{
+		"name": "winnebago county",
+		"state": "WI",
+		"POC": 0.09918153420163228
+	},
+	{
+		"name": "wood county",
+		"state": "WI",
+		"POC": 0.06127481198372581
+	},
+    {
+		"name": "barbour county",
+		"state": "WV",
+		"POC": 0.024268596800681226
+	},
+	{
+		"name": "berkeley county",
+		"state": "WV",
+		"POC": 0.13804532982017437
+	},
+	{
+		"name": "boone county",
+		"state": "WV",
+		"POC": 0.015146572214195833
+	},
+	{
+		"name": "braxton county",
+		"state": "WV",
+		"POC": 0.018556996489216878
+	},
+	{
+		"name": "brooke county",
+		"state": "WV",
+		"POC": 0.02880714708965769
+	},
+	{
+		"name": "cabell county",
+		"state": "WV",
+		"POC": 0.07500135950840177
+	},
+	{
+		"name": "calhoun county",
+		"state": "WV",
+		"POC": 0.016739344492896328
+	},
+	{
+		"name": "clay county",
+		"state": "WV",
+		"POC": 0.013399153737658674
+	},
+	{
+		"name": "doddridge county",
+		"state": "WV",
+		"POC": 0.03231534090909091
+	},
+	{
+		"name": "fayette county",
+		"state": "WV",
+		"POC": 0.05933122671320096
+	},
+	{
+		"name": "gilmer county",
+		"state": "WV",
+		"POC": 0.1709063019302058
+	},
+	{
+		"name": "grant county",
+		"state": "WV",
+		"POC": 0.028267634854771784
+	},
+	{
+		"name": "greenbrier county",
+		"state": "WV",
+		"POC": 0.05420922047198661
+	},
+	{
+		"name": "hampshire county",
+		"state": "WV",
+		"POC": 0.03171521035598705
+	},
+	{
+		"name": "hancock county",
+		"state": "WV",
+		"POC": 0.048073585560569246
+	},
+	{
+		"name": "hardy county",
+		"state": "WV",
+		"POC": 0.08761614401858304
+	},
+	{
+		"name": "harrison county",
+		"state": "WV",
+		"POC": 0.042568692756036634
+	},
+	{
+		"name": "jackson county",
+		"state": "WV",
+		"POC": 0.019561870100783876
+	},
+	{
+		"name": "jefferson county",
+		"state": "WV",
+		"POC": 0.1426696531690757
+	},
+	{
+		"name": "kanawha county",
+		"state": "WV",
+		"POC": 0.09788686532977027
+	},
+	{
+		"name": "lewis county",
+		"state": "WV",
+		"POC": 0.024894700446344377
+	},
+	{
+		"name": "lincoln county",
+		"state": "WV",
+		"POC": 0.013572443529815278
+	},
+	{
+		"name": "logan county",
+		"state": "WV",
+		"POC": 0.031106530497517097
+	},
+	{
+		"name": "marion county",
+		"state": "WV",
+		"POC": 0.05250392352689399
+	},
+	{
+		"name": "marshall county",
+		"state": "WV",
+		"POC": 0.02128983655956241
+	},
+	{
+		"name": "mason county",
+		"state": "WV",
+		"POC": 0.02002564489364912
+	},
+	{
+		"name": "mcdowell county",
+		"state": "WV",
+		"POC": 0.09731048570131638
+	},
+	{
+		"name": "mercer county",
+		"state": "WV",
+		"POC": 0.07867864801388748
+	},
+	{
+		"name": "mineral county",
+		"state": "WV",
+		"POC": 0.0457421467917225
+	},
+	{
+		"name": "mingo county",
+		"state": "WV",
+		"POC": 0.0312926912568306
+	},
+	{
+		"name": "monongalia county",
+		"state": "WV",
+		"POC": 0.0946862099003901
+	},
+	{
+		"name": "monroe county",
+		"state": "WV",
+		"POC": 0.019661016949152545
+	},
+	{
+		"name": "morgan county",
+		"state": "WV",
+		"POC": 0.03002683963319168
+	},
+	{
+		"name": "nicholas county",
+		"state": "WV",
+		"POC": 0.017798824297844545
+	},
+	{
+		"name": "ohio county",
+		"state": "WV",
+		"POC": 0.05768998575257782
+	},
+	{
+		"name": "pendleton county",
+		"state": "WV",
+		"POC": 0.038025541684603245
+	},
+	{
+		"name": "pleasants county",
+		"state": "WV",
+		"POC": 0.028016085790884715
+	},
+	{
+		"name": "pocahontas county",
+		"state": "WV",
+		"POC": 0.032496665454104526
+	},
+	{
+		"name": "preston county",
+		"state": "WV",
+		"POC": 0.02970208183776023
+	},
+	{
+		"name": "putnam county",
+		"state": "WV",
+		"POC": 0.03303808680248007
+	},
+	{
+		"name": "raleigh county",
+		"state": "WV",
+		"POC": 0.10535570671065007
+	},
+	{
+		"name": "randolph county",
+		"state": "WV",
+		"POC": 0.03164314340477435
+	},
+	{
+		"name": "ritchie county",
+		"state": "WV",
+		"POC": 0.015804898471844256
+	},
+	{
+		"name": "roane county",
+		"state": "WV",
+		"POC": 0.019213909994155464
+	},
+	{
+		"name": "summers county",
+		"state": "WV",
+		"POC": 0.0647419072615923
+	},
+	{
+		"name": "taylor county",
+		"state": "WV",
+		"POC": 0.026714585205151242
+	},
+	{
+		"name": "tucker county",
+		"state": "WV",
+		"POC": 0.016230443047229128
+	},
+	{
+		"name": "tyler county",
+		"state": "WV",
+		"POC": 0.016296123850541265
+	},
+	{
+		"name": "upshur county",
+		"state": "WV",
+		"POC": 0.030112508272667107
+	},
+	{
+		"name": "wayne county",
+		"state": "WV",
+		"POC": 0.015659103598802092
+	},
+	{
+		"name": "webster county",
+		"state": "WV",
+		"POC": 0.013926546709391176
+	},
+	{
+		"name": "wetzel county",
+		"state": "WV",
+		"POC": 0.01951543312313309
+	},
+	{
+		"name": "wirt county",
+		"state": "WV",
+		"POC": 0.016148428105136572
+	},
+	{
+		"name": "wood county",
+		"state": "WV",
+		"POC": 0.030532340333820254
+	},
+	{
+		"name": "wyoming county",
+		"state": "WV",
+		"POC": 0.016426399921545553
+	},
+    {
+		"name": "accomack county",
+		"state": "VA",
+		"POC": 0.3873004084663944
+	},
+	{
+		"name": "albemarle county",
+		"state": "VA",
+		"POC": 0.2100429891155218
+	},
+	{
+		"name": "alexandria city",
+		"state": "VA",
+		"POC": 0.45880899214692533
+	},
+	{
+		"name": "alleghany county",
+		"state": "VA",
+		"POC": 0.06608344549125168
+	},
+	{
+		"name": "amelia county",
+		"state": "VA",
+		"POC": 0.24237352605553444
+	},
+	{
+		"name": "amherst county",
+		"state": "VA",
+		"POC": 0.22110425565575068
+	},
+	{
+		"name": "appomattox county",
+		"state": "VA",
+		"POC": 0.20815787819747347
+	},
+	{
+		"name": "arlington county",
+		"state": "VA",
+		"POC": 0.3623428277079235
+	},
+	{
+		"name": "augusta county",
+		"state": "VA",
+		"POC": 0.08446491437041742
+	},
+	{
+		"name": "bath county",
+		"state": "VA",
+		"POC": 0.07523510971786833
+	},
+	{
+		"name": "bedford county",
+		"state": "VA",
+		"POC": 0.10813068850715851
+	},
+	{
+		"name": "bland county",
+		"state": "VA",
+		"POC": 0.0554140127388535
+	},
+	{
+		"name": "botetourt county",
+		"state": "VA",
+		"POC": 0.05808073251743021
+	},
+	{
+		"name": "bristol city",
+		"state": "VA",
+		"POC": 0.0967664956449111
+	},
+	{
+		"name": "brunswick county",
+		"state": "VA",
+		"POC": 0.5815414946706919
+	},
+	{
+		"name": "bucha0 county",
+		"state": "VA",
+		"POC": 0.04713387926109314
+	},
+	{
+		"name": "buckingham county",
+		"state": "VA",
+		"POC": 0.3657569395847913
+	},
+	{
+		"name": "buena vista city",
+		"state": "VA",
+		"POC": 0.08598332818771226
+	},
+	{
+		"name": "campbell county",
+		"state": "VA",
+		"POC": 0.1873189396009839
+	},
+	{
+		"name": "caroline county",
+		"state": "VA",
+		"POC": 0.3354597233523189
+	},
+	{
+		"name": "carroll county",
+		"state": "VA",
+		"POC": 0.04961229901648149
+	},
+	{
+		"name": "charles city county",
+		"state": "VA",
+		"POC": 0.4686198477667672
+	},
+	{
+		"name": "charlotte county",
+		"state": "VA",
+		"POC": 0.30218855218855223
+	},
+	{
+		"name": "charlottesville city",
+		"state": "VA",
+		"POC": 0.31407354123471415
+	},
+	{
+		"name": "chesapeake city",
+		"state": "VA",
+		"POC": 0.40742132456552377
+	},
+	{
+		"name": "chesterfield county",
+		"state": "VA",
+		"POC": 0.3767042136949337
+	},
+	{
+		"name": "clarke county",
+		"state": "VA",
+		"POC": 0.12470073192420822
+	},
+	{
+		"name": "colonial heights city",
+		"state": "VA",
+		"POC": 0.2706390328151986
+	},
+	{
+		"name": "covington city",
+		"state": "VA",
+		"POC": 0.16919465511014808
+	},
+	{
+		"name": "craig county",
+		"state": "VA",
+		"POC": 0.021828103683492497
+	},
+	{
+		"name": "culpeper county",
+		"state": "VA",
+		"POC": 0.27871875297024995
+	},
+	{
+		"name": "cumberland county",
+		"state": "VA",
+		"POC": 0.34182440596053165
+	},
+	{
+		"name": "danville city",
+		"state": "VA",
+		"POC": 0.5760413545100389
+	},
+	{
+		"name": "dickenson county",
+		"state": "VA",
+		"POC": 0.01808911859198212
+	},
+	{
+		"name": "dinwiddie county",
+		"state": "VA",
+		"POC": 0.3683085762331839
+	},
+	{
+		"name": "emporia city",
+		"state": "VA",
+		"POC": 0.7267115600448933
+	},
+	{
+		"name": "essex county",
+		"state": "VA",
+		"POC": 0.42490641833287685
+	},
+	{
+		"name": "fairfax city",
+		"state": "VA",
+		"POC": 0.42820267288396685
+	},
+	{
+		"name": "fairfax county",
+		"state": "VA",
+		"POC": 0.4728007584973665
+	},
+	{
+		"name": "falls church city",
+		"state": "VA",
+		"POC": 0.2542929465690634
+	},
+	{
+		"name": "fauquier county",
+		"state": "VA",
+		"POC": 0.18710510797225577
+	},
+	{
+		"name": "floyd county",
+		"state": "VA",
+		"POC": 0.05568607530636866
+	},
+	{
+		"name": "fluvanna county",
+		"state": "VA",
+		"POC": 0.2004033736707004
+	},
+	{
+		"name": "franklin city",
+		"state": "VA",
+		"POC": 0.6113970126772938
+	},
+	{
+		"name": "franklin county",
+		"state": "VA",
+		"POC": 0.11252275079404732
+	},
+	{
+		"name": "frederick county",
+		"state": "VA",
+		"POC": 0.15812927569334811
+	},
+	{
+		"name": "fredericksburg city",
+		"state": "VA",
+		"POC": 0.3812164209946274
+	},
+	{
+		"name": "galax city",
+		"state": "VA",
+		"POC": 0.24058610367102568
+	},
+	{
+		"name": "giles county",
+		"state": "VA",
+		"POC": 0.04013157894736842
+	},
+	{
+		"name": "gloucester county",
+		"state": "VA",
+		"POC": 0.12656634893434723
+	},
+	{
+		"name": "goochland county",
+		"state": "VA",
+		"POC": 0.2057424325348377
+	},
+	{
+		"name": "grayson county",
+		"state": "VA",
+		"POC": 0.0977491961414791
+	},
+	{
+		"name": "greene county",
+		"state": "VA",
+		"POC": 0.15338816287400978
+	},
+	{
+		"name": "greensville county",
+		"state": "VA",
+		"POC": 0.6367325335215245
+	},
+	{
+		"name": "halifax county",
+		"state": "VA",
+		"POC": 0.3918492524549556
+	},
+	{
+		"name": "hampton city",
+		"state": "VA",
+		"POC": 0.5994052486803955
+	},
+	{
+		"name": "hanover county",
+		"state": "VA",
+		"POC": 0.1457324202438617
+	},
+	{
+		"name": "harrisonburg city",
+		"state": "VA",
+		"POC": 0.3405575675267844
+	},
+	{
+		"name": "henrico county",
+		"state": "VA",
+		"POC": 0.4595306180437582
+	},
+	{
+		"name": "henry county",
+		"state": "VA",
+		"POC": 0.28905987301461716
+	},
+	{
+		"name": "highland county",
+		"state": "VA",
+		"POC": 0.027853881278538814
+	},
+	{
+		"name": "hopewell city",
+		"state": "VA",
+		"POC": 0.5351324958941809
+	},
+	{
+		"name": "isle of wight county",
+		"state": "VA",
+		"POC": 0.27588994583524207
+	},
+	{
+		"name": "james city county",
+		"state": "VA",
+		"POC": 0.2240894894345491
+	},
+	{
+		"name": "king and queen county",
+		"state": "VA",
+		"POC": 0.29822064056939496
+	},
+	{
+		"name": "king george county",
+		"state": "VA",
+		"POC": 0.23516917573408852
+	},
+	{
+		"name": "king william county",
+		"state": "VA",
+		"POC": 0.19413342663867508
+	},
+	{
+		"name": "lancaster county",
+		"state": "VA",
+		"POC": 0.3171743846081298
+	},
+	{
+		"name": "lee county",
+		"state": "VA",
+		"POC": 0.05994108355035648
+	},
+	{
+		"name": "lexington city",
+		"state": "VA",
+		"POC": 0.1514907332796132
+	},
+	{
+		"name": "loudoun county",
+		"state": "VA",
+		"POC": 0.4234387166354724
+	},
+	{
+		"name": "louisa county",
+		"state": "VA",
+		"POC": 0.19525950360458622
+	},
+	{
+		"name": "lunenburg county",
+		"state": "VA",
+		"POC": 0.39594949163660215
+	},
+	{
+		"name": "lynchburg city",
+		"state": "VA",
+		"POC": 0.35249732255866034
+	},
+	{
+		"name": "madison county",
+		"state": "VA",
+		"POC": 0.131211824145992
+	},
+	{
+		"name": "manassas city",
+		"state": "VA",
+		"POC": 0.5984422538639406
+	},
+	{
+		"name": "manassas park city",
+		"state": "VA",
+		"POC": 0.6818285845062364
+	},
+	{
+		"name": "martinsville city",
+		"state": "VA",
+		"POC": 0.5512187350645213
+	},
+	{
+		"name": "mathews county",
+		"state": "VA",
+		"POC": 0.12044374009508717
+	},
+	{
+		"name": "mecklenburg county",
+		"state": "VA",
+		"POC": 0.38519632523621156
+	},
+	{
+		"name": "middlesex county",
+		"state": "VA",
+		"POC": 0.20015120015120016
+	},
+	{
+		"name": "montgomery county",
+		"state": "VA",
+		"POC": 0.14113766681889683
+	},
+	{
+		"name": "nelson county",
+		"state": "VA",
+		"POC": 0.16450100468854656
+	},
+	{
+		"name": "new kent county",
+		"state": "VA",
+		"POC": 0.1870858776146551
+	},
+	{
+		"name": "newport news city",
+		"state": "VA",
+		"POC": 0.5553856883805273
+	},
+	{
+		"name": "norfolk city",
+		"state": "VA",
+		"POC": 0.5439520148964745
+	},
+	{
+		"name": "northampton county",
+		"state": "VA",
+		"POC": 0.442527754056362
+	},
+	{
+		"name": "northumberland county",
+		"state": "VA",
+		"POC": 0.2932616783794956
+	},
+	{
+		"name": "norton city",
+		"state": "VA",
+		"POC": 0.11554885707108767
+	},
+	{
+		"name": "nottoway county",
+		"state": "VA",
+		"POC": 0.44669117647058826
+	},
+	{
+		"name": "orange county",
+		"state": "VA",
+		"POC": 0.19886102939191924
+	},
+	{
+		"name": "page county",
+		"state": "VA",
+		"POC": 0.04936825370261903
+	},
+	{
+		"name": "patrick county",
+		"state": "VA",
+		"POC": 0.08768741481144934
+	},
+	{
+		"name": "petersburg city",
+		"state": "VA",
+		"POC": 0.8326102213998596
+	},
+	{
+		"name": "pittsylvania county",
+		"state": "VA",
+		"POC": 0.24747324121019318
+	},
+	{
+		"name": "poquoson city",
+		"state": "VA",
+		"POC": 0.06975796593594653
+	},
+	{
+		"name": "portsmouth city",
+		"state": "VA",
+		"POC": 0.6068560774592682
+	},
+	{
+		"name": "powhatan county",
+		"state": "VA",
+		"POC": 0.12110481586402266
+	},
+	{
+		"name": "prince edward county",
+		"state": "VA",
+		"POC": 0.37189720199982457
+	},
+	{
+		"name": "prince george county",
+		"state": "VA",
+		"POC": 0.43446405757046386
+	},
+	{
+		"name": "prince william county",
+		"state": "VA",
+		"POC": 0.561544431096984
+	},
+	{
+		"name": "pulaski county",
+		"state": "VA",
+		"POC": 0.07535192641137921
+	},
+	{
+		"name": "radford city",
+		"state": "VA",
+		"POC": 0.14417228341278976
+	},
+	{
+		"name": "rappahannock county",
+		"state": "VA",
+		"POC": 0.09538670284938941
+	},
+	{
+		"name": "richmond city",
+		"state": "VA",
+		"POC": 0.5651156937284105
+	},
+	{
+		"name": "richmond county",
+		"state": "VA",
+		"POC": 0.3764823229524548
+	},
+	{
+		"name": "roanoke city",
+		"state": "VA",
+		"POC": 0.3971435199661096
+	},
+	{
+		"name": "roanoke county",
+		"state": "VA",
+		"POC": 0.13195167009959016
+	},
+	{
+		"name": "rockbridge county",
+		"state": "VA",
+		"POC": 0.0608691799937979
+	},
+	{
+		"name": "rockingham county",
+		"state": "VA",
+		"POC": 0.10960609166788696
+	},
+	{
+		"name": "russell county",
+		"state": "VA",
+		"POC": 0.027157150379899193
+	},
+	{
+		"name": "salem city",
+		"state": "VA",
+		"POC": 0.13212916485514406
+	},
+	{
+		"name": "scott county",
+		"state": "VA",
+		"POC": 0.025734953167022165
+	},
+	{
+		"name": "she0doah county",
+		"state": "VA",
+		"POC": 0.11371973587674247
+	},
+	{
+		"name": "smyth county",
+		"state": "VA",
+		"POC": 0.05002657454158916
+	},
+	{
+		"name": "southampton county",
+		"state": "VA",
+		"POC": 0.372865974703647
+	},
+	{
+		"name": "spotsylvania county",
+		"state": "VA",
+		"POC": 0.31023749219983116
+	},
+	{
+		"name": "stafford county",
+		"state": "VA",
+		"POC": 0.37775539304823325
+	},
+	{
+		"name": "staunton city",
+		"state": "VA",
+		"POC": 0.1609979143269694
+	},
+	{
+		"name": "suffolk city",
+		"state": "VA",
+		"POC": 0.49181395752811913
+	},
+	{
+		"name": "surry county",
+		"state": "VA",
+		"POC": 0.44767985051385867
+	},
+	{
+		"name": "sussex county",
+		"state": "VA",
+		"POC": 0.5987095617886906
+	},
+	{
+		"name": "tazewell county",
+		"state": "VA",
+		"POC": 0.05012932627170834
+	},
+	{
+		"name": "virginia beach city",
+		"state": "VA",
+		"POC": 0.3614364385497829
+	},
+	{
+		"name": "warren county",
+		"state": "VA",
+		"POC": 0.11577532118314907
+	},
+	{
+		"name": "washington county",
+		"state": "VA",
+		"POC": 0.0369184964644585
+	},
+	{
+		"name": "waynesboro city",
+		"state": "VA",
+		"POC": 0.23809102960671677
+	},
+	{
+		"name": "westmoreland county",
+		"state": "VA",
+		"POC": 0.3388287538162642
+	},
+	{
+		"name": "williamsburg city",
+		"state": "VA",
+		"POC": 0.2918282733716731
+	},
+	{
+		"name": "winchester city",
+		"state": "VA",
+		"POC": 0.32285063038677975
+	},
+	{
+		"name": "wise county",
+		"state": "VA",
+		"POC": 0.07441885348955407
+	},
+	{
+		"name": "wythe county",
+		"state": "VA",
+		"POC": 0.04943522521266211
+	},
+	{
+		"name": "york county",
+		"state": "VA",
+		"POC": 0.26786760398359694
+	},
+	{
+		"name": "addison county",
+		"state": "VT",
+		"POC": 0.054626532887402456
+	},
+	{
+		"name": "bennington county",
+		"state": "VT",
+		"POC": 0.04716661967860164
+	},
+	{
+		"name": "caledonia county",
+		"state": "VT",
+		"POC": 0.03477478078218251
+	},
+	{
+		"name": "chittenden county",
+		"state": "VT",
+		"POC": 0.0956317852650604
+	},
+	{
+		"name": "essex county",
+		"state": "VT",
+		"POC": 0.02823300340743145
+	},
+	{
+		"name": "franklin county",
+		"state": "VT",
+		"POC": 0.03295413141168374
+	},
+	{
+		"name": "grand isle county",
+		"state": "VT",
+		"POC": 0.0359364201796821
+	},
+	{
+		"name": "lamoille county",
+		"state": "VT",
+		"POC": 0.0371816102831007
+	},
+	{
+		"name": "orange county",
+		"state": "VT",
+		"POC": 0.026408694448290186
+	},
+	{
+		"name": "orleans county",
+		"state": "VT",
+		"POC": 0.029626067980915043
+	},
+	{
+		"name": "rutland county",
+		"state": "VT",
+		"POC": 0.03323538004158719
+	},
+	{
+		"name": "washington county",
+		"state": "VT",
+		"POC": 0.039017959561026556
+	},
+	{
+		"name": "windham county",
+		"state": "VT",
+		"POC": 0.05177395670503529
+	},
+	{
+		"name": "windsor county",
+		"state": "VT",
+		"POC": 0.03817514801496495
+	},
+	{
+		"name": "bristol county",
+		"state": "RI",
+		"POC": 0.07196930629757214
+	},
+	{
+		"name": "kent county",
+		"state": "RI",
+		"POC": 0.11032795266963699
+	},
+	{
+		"name": "newport county",
+		"state": "RI",
+		"POC": 0.12284057406008625
+	},
+	{
+		"name": "providence county",
+		"state": "RI",
+		"POC": 0.40985959360243907
+	},
+	{
+		"name": "washington county",
+		"state": "RI",
+		"POC": 0.06942354093504383
+	},
+	{
+		"name": "adams county",
+		"state": "PA",
+		"POC": 0.10170955935889098
+	},
+	{
+		"name": "allegheny county",
+		"state": "PA",
+		"POC": 0.19905513365048166
+	},
+	{
+		"name": "armstrong county",
+		"state": "PA",
+		"POC": 0.020112767436471772
+	},
+	{
+		"name": "beaver county",
+		"state": "PA",
+		"POC": 0.08828212213824278
+	},
+	{
+		"name": "bedford county",
+		"state": "PA",
+		"POC": 0.023701135983962576
+	},
+	{
+		"name": "berks county",
+		"state": "PA",
+		"POC": 0.3140106941713917
+	},
+	{
+		"name": "blair county",
+		"state": "PA",
+		"POC": 0.04060609542883878
+	},
+	{
+		"name": "bradford county",
+		"state": "PA",
+		"POC": 0.03051903917245495
+	},
+	{
+		"name": "bucks county",
+		"state": "PA",
+		"POC": 0.15407706877616312
+	},
+	{
+		"name": "butler county",
+		"state": "PA",
+		"POC": 0.04433253661107356
+	},
+	{
+		"name": "cambria county",
+		"state": "PA",
+		"POC": 0.05995760108147966
+	},
+	{
+		"name": "cameron county",
+		"state": "PA",
+		"POC": 0.03013267371261525
+	},
+	{
+		"name": "carbon county",
+		"state": "PA",
+		"POC": 0.08229721728833629
+	},
+	{
+		"name": "centre county",
+		"state": "PA",
+		"POC": 0.1323521261200234
+	},
+	{
+		"name": "chester county",
+		"state": "PA",
+		"POC": 0.19993371289684164
+	},
+	{
+		"name": "clarion county",
+		"state": "PA",
+		"POC": 0.03051667620583797
+	},
+	{
+		"name": "clearfield county",
+		"state": "PA",
+		"POC": 0.06780644754274177
+	},
+	{
+		"name": "clinton county",
+		"state": "PA",
+		"POC": 0.04032926071650445
+	},
+	{
+		"name": "columbia county",
+		"state": "PA",
+		"POC": 0.06154177698417585
+	},
+	{
+		"name": "crawford county",
+		"state": "PA",
+		"POC": 0.04039986293114653
+	},
+	{
+		"name": "cumberland county",
+		"state": "PA",
+		"POC": 0.1380944863243478
+	},
+	{
+		"name": "dauphin county",
+		"state": "PA",
+		"POC": 0.34438499599351774
+	},
+	{
+		"name": "delaware county",
+		"state": "PA",
+		"POC": 0.33101366218083206
+	},
+	{
+		"name": "elk county",
+		"state": "PA",
+		"POC": 0.01792042795051822
+	},
+	{
+		"name": "erie county",
+		"state": "PA",
+		"POC": 0.14176874480958596
+	},
+	{
+		"name": "fayette county",
+		"state": "PA",
+		"POC": 0.0650556182991166
+	},
+	{
+		"name": "forest county",
+		"state": "PA",
+		"POC": 0.28025389816475776
+	},
+	{
+		"name": "franklin county",
+		"state": "PA",
+		"POC": 0.11350280918807693
+	},
+	{
+		"name": "fulton county",
+		"state": "PA",
+		"POC": 0.02794218857536132
+	},
+	{
+		"name": "greene county",
+		"state": "PA",
+		"POC": 0.05660585653961858
+	},
+	{
+		"name": "huntingdon county",
+		"state": "PA",
+		"POC": 0.08802941697678539
+	},
+	{
+		"name": "indiana county",
+		"state": "PA",
+		"POC": 0.05266851426736288
+	},
+	{
+		"name": "jefferson county",
+		"state": "PA",
+		"POC": 0.01791594703511802
+	},
+	{
+		"name": "juniata county",
+		"state": "PA",
+		"POC": 0.05593021847110609
+	},
+	{
+		"name": "lackawanna county",
+		"state": "PA",
+		"POC": 0.15698656008851836
+	},
+	{
+		"name": "lancaster county",
+		"state": "PA",
+		"POC": 0.18694431617447646
+	},
+	{
+		"name": "lawrence county",
+		"state": "PA",
+		"POC": 0.06435354102348209
+	},
+	{
+		"name": "lebanon county",
+		"state": "PA",
+		"POC": 0.19423384793325482
+	},
+	{
+		"name": "lehigh county",
+		"state": "PA",
+		"POC": 0.39946062742677046
+	},
+	{
+		"name": "luzerne county",
+		"state": "PA",
+		"POC": 0.21817987064334926
+	},
+	{
+		"name": "lycoming county",
+		"state": "PA",
+		"POC": 0.07635548416137829
+	},
+	{
+		"name": "mckean county",
+		"state": "PA",
+		"POC": 0.0528
+	},
+	{
+		"name": "mercer county",
+		"state": "PA",
+		"POC": 0.08182848369644685
+	},
+	{
+		"name": "mifflin county",
+		"state": "PA",
+		"POC": 0.03292297021977546
+	},
+	{
+		"name": "monroe county",
+		"state": "PA",
+		"POC": 0.359973219162394
+	},
+	{
+		"name": "montgomery county",
+		"state": "PA",
+		"POC": 0.2352250230167947
+	},
+	{
+		"name": "montour county",
+		"state": "PA",
+		"POC": 0.08167855183763029
+	},
+	{
+		"name": "northampton county",
+		"state": "PA",
+		"POC": 0.24396875051181682
+	},
+	{
+		"name": "northumberland county",
+		"state": "PA",
+		"POC": 0.07442510705282741
+	},
+	{
+		"name": "perry county",
+		"state": "PA",
+		"POC": 0.039354253112033194
+	},
+	{
+		"name": "philadelphia county",
+		"state": "PA",
+		"POC": 0.6661365954910912
+	},
+	{
+		"name": "pike county",
+		"state": "PA",
+		"POC": 0.19645576878281282
+	},
+	{
+		"name": "potter county",
+		"state": "PA",
+		"POC": 0.026201137601355437
+	},
+	{
+		"name": "schuylkill county",
+		"state": "PA",
+		"POC": 0.09444747062443848
+	},
+	{
+		"name": "snyder county",
+		"state": "PA",
+		"POC": 0.043569800852075694
+	},
+	{
+		"name": "somerset county",
+		"state": "PA",
+		"POC": 0.05190137105668032
+	},
+	{
+		"name": "sullivan county",
+		"state": "PA",
+		"POC": 0.060830860534124634
+	},
+	{
+		"name": "susquehanna county",
+		"state": "PA",
+		"POC": 0.028392184090458242
+	},
+	{
+		"name": "tioga county",
+		"state": "PA",
+		"POC": 0.02608952723510138
+	},
+	{
+		"name": "union county",
+		"state": "PA",
+		"POC": 0.15270574093448788
+	},
+	{
+		"name": "ve0go county",
+		"state": "PA",
+		"POC": 0.02721638904239362
+	},
+	{
+		"name": "warren county",
+		"state": "PA",
+		"POC": 0.021841749381235488
+	},
+	{
+		"name": "washington county",
+		"state": "PA",
+		"POC": 0.0631764677446644
+	},
+	{
+		"name": "wayne county",
+		"state": "PA",
+		"POC": 0.0926578532349448
+	},
+	{
+		"name": "westmoreland county",
+		"state": "PA",
+		"POC": 0.048635851636146844
+	},
+	{
+		"name": "wyoming county",
+		"state": "PA",
+		"POC": 0.03515712472941703
+	},
+	{
+		"name": "york county",
+		"state": "PA",
+		"POC": 0.16653528052055633
+	},
+    {
+		"name": "albany county",
+		"state": "NY",
+		"POC": 0.27195210568695866
+	},
+	{
+		"name": "allegany county",
+		"state": "NY",
+		"POC": 0.043934824586144804
+	},
+	{
+		"name": "bronx county",
+		"state": "NY",
+		"POC": 1.0455610499736638
+	},
+	{
+		"name": "broome county",
+		"state": "NY",
+		"POC": 0.15232455587753557
+	},
+	{
+		"name": "cattaraugus county",
+		"state": "NY",
+		"POC": 0.04470748978546186
+	},
+	{
+		"name": "cayuga county",
+		"state": "NY",
+		"POC": 0.08257156289176765
+	},
+	{
+		"name": "chautauqua county",
+		"state": "NY",
+		"POC": 0.112542650685957
+	},
+	{
+		"name": "che0go county",
+		"state": "NY",
+		"POC": 0.03918910331094965
+	},
+	{
+		"name": "chemung county",
+		"state": "NY",
+		"POC": 0.11198715490797548
+	},
+	{
+		"name": "clinton county",
+		"state": "NY",
+		"POC": 0.08840156550910107
+	},
+	{
+		"name": "columbia county",
+		"state": "NY",
+		"POC": 0.12371134020618557
+	},
+	{
+		"name": "cortland county",
+		"state": "NY",
+		"POC": 0.05991887518126983
+	},
+	{
+		"name": "delaware county",
+		"state": "NY",
+		"POC": 0.07234621049054038
+	},
+	{
+		"name": "dutchess county",
+		"state": "NY",
+		"POC": 0.2866547933844972
+	},
+	{
+		"name": "erie county",
+		"state": "NY",
+		"POC": 0.23568687125966853
+	},
+	{
+		"name": "essex county",
+		"state": "NY",
+		"POC": 0.06566354886810356
+	},
+	{
+		"name": "franklin county",
+		"state": "NY",
+		"POC": 0.10529367078485466
+	},
+	{
+		"name": "fulton county",
+		"state": "NY",
+		"POC": 0.06445872281437912
+	},
+	{
+		"name": "genesee county",
+		"state": "NY",
+		"POC": 0.07323673184357542
+	},
+	{
+		"name": "greene county",
+		"state": "NY",
+		"POC": 0.13702636263456813
+	},
+	{
+		"name": "hamilton county",
+		"state": "NY",
+		"POC": 0.03804347826086956
+	},
+	{
+		"name": "herkimer county",
+		"state": "NY",
+		"POC": 0.04409726186010861
+	},
+	{
+		"name": "jefferson county",
+		"state": "NY",
+		"POC": 0.16312799315330406
+	},
+	{
+		"name": "kings county",
+		"state": "NY",
+		"POC": 0.653426321231703
+	},
+	{
+		"name": "lewis county",
+		"state": "NY",
+		"POC": 0.028787648311530273
+	},
+	{
+		"name": "livingston county",
+		"state": "NY",
+		"POC": 0.08217566837269924
+	},
+	{
+		"name": "madison county",
+		"state": "NY",
+		"POC": 0.05332600329851567
+	},
+	{
+		"name": "monroe county",
+		"state": "NY",
+		"POC": 0.2911252814214649
+	},
+	{
+		"name": "montgomery county",
+		"state": "NY",
+		"POC": 0.19219438857398266
+	},
+	{
+		"name": "nassau county",
+		"state": "NY",
+		"POC": 0.4143599788934384
+	},
+	{
+		"name": "new york county",
+		"state": "NY",
+		"POC": 0.5622309981052442
+	},
+	{
+		"name": "niagara county",
+		"state": "NY",
+		"POC": 0.11896445448941853
+	},
+	{
+		"name": "oneida county",
+		"state": "NY",
+		"POC": 0.1743203117142095
+	},
+	{
+		"name": "onondaga county",
+		"state": "NY",
+		"POC": 0.2103324879269013
+	},
+	{
+		"name": "ontario county",
+		"state": "NY",
+		"POC": 0.09269701303551746
+	},
+	{
+		"name": "orange county",
+		"state": "NY",
+		"POC": 0.37730035849742816
+	},
+	{
+		"name": "orleans county",
+		"state": "NY",
+		"POC": 0.12078707375099128
+	},
+	{
+		"name": "oswego county",
+		"state": "NY",
+		"POC": 0.046489190942932274
+	},
+	{
+		"name": "otsego county",
+		"state": "NY",
+		"POC": 0.07834535155396433
+	},
+	{
+		"name": "putnam county",
+		"state": "NY",
+		"POC": 0.22616965012205043
+	},
+	{
+		"name": "queens county",
+		"state": "NY",
+		"POC": 0.7575925368856423
+	},
+	{
+		"name": "rensselaer county",
+		"state": "NY",
+		"POC": 0.1605466436483234
+	},
+	{
+		"name": "richmond county",
+		"state": "NY",
+		"POC": 0.41190776720439026
+	},
+	{
+		"name": "rockland county",
+		"state": "NY",
+		"POC": 0.3771183189119338
+	},
+	{
+		"name": "saratoga county",
+		"state": "NY",
+		"POC": 0.08262747810652432
+	},
+	{
+		"name": "schenectady county",
+		"state": "NY",
+		"POC": 0.2515856509056723
+	},
+	{
+		"name": "schoharie county",
+		"state": "NY",
+		"POC": 0.057647020871641017
+	},
+	{
+		"name": "schuyler county",
+		"state": "NY",
+		"POC": 0.03807491435952154
+	},
+	{
+		"name": "seneca county",
+		"state": "NY",
+		"POC": 0.09957079021636876
+	},
+	{
+		"name": "st. lawrence county",
+		"state": "NY",
+		"POC": 0.06051605717467978
+	},
+	{
+		"name": "steuben county",
+		"state": "NY",
+		"POC": 0.05028360540580211
+	},
+	{
+		"name": "suffolk county",
+		"state": "NY",
+		"POC": 0.3325414245283594
+	},
+	{
+		"name": "sullivan county",
+		"state": "NY",
+		"POC": 0.28733163644076787
+	},
+	{
+		"name": "tioga county",
+		"state": "NY",
+		"POC": 0.03935439702923055
+	},
+	{
+		"name": "tompkins county",
+		"state": "NY",
+		"POC": 0.2022411430808377
+	},
+	{
+		"name": "ulster county",
+		"state": "NY",
+		"POC": 0.19952920770612648
+	},
+	{
+		"name": "warren county",
+		"state": "NY",
+		"POC": 0.052389590892030526
+	},
+	{
+		"name": "washington county",
+		"state": "NY",
+		"POC": 0.07055094438272008
+	},
+	{
+		"name": "wayne county",
+		"state": "NY",
+		"POC": 0.08552236482128162
+	},
+	{
+		"name": "westchester county",
+		"state": "NY",
+		"POC": 0.48703884006920883
+	},
+	{
+		"name": "wyoming county",
+		"state": "NY",
+		"POC": 0.0942572568303269
+	},
+	{
+		"name": "yates county",
+		"state": "NY",
+		"POC": 0.039858708304901055
+	},
+	{
+		"name": "adams county",
+		"state": "OH",
+		"POC": 0.018954437143476062
+	},
+	{
+		"name": "allen county",
+		"state": "OH",
+		"POC": 0.16667155181678733
+	},
+	{
+		"name": "ashland county",
+		"state": "OH",
+		"POC": 0.030925136489417394
+	},
+	{
+		"name": "ashtabula county",
+		"state": "OH",
+		"POC": 0.08748367458170937
+	},
+	{
+		"name": "athens county",
+		"state": "OH",
+		"POC": 0.0789260183385124
+	},
+	{
+		"name": "auglaize county",
+		"state": "OH",
+		"POC": 0.0305983879446294
+	},
+	{
+		"name": "belmont county",
+		"state": "OH",
+		"POC": 0.058726084231262875
+	},
+	{
+		"name": "brown county",
+		"state": "OH",
+		"POC": 0.025303923374470436
+	},
+	{
+		"name": "butler county",
+		"state": "OH",
+		"POC": 0.18075399207587944
+	},
+	{
+		"name": "carroll county",
+		"state": "OH",
+		"POC": 0.023853756409303706
+	},
+	{
+		"name": "champaign county",
+		"state": "OH",
+		"POC": 0.043435772148643435
+	},
+	{
+		"name": "clark county",
+		"state": "OH",
+		"POC": 0.13304445753749541
+	},
+	{
+		"name": "clermont county",
+		"state": "OH",
+		"POC": 0.05184374212800589
+	},
+	{
+		"name": "clinton county",
+		"state": "OH",
+		"POC": 0.04508196721311475
+	},
+	{
+		"name": "columbiana county",
+		"state": "OH",
+		"POC": 0.047289537999469985
+	},
+	{
+		"name": "coshocton county",
+		"state": "OH",
+		"POC": 0.027267759562841533
+	},
+	{
+		"name": "crawford county",
+		"state": "OH",
+		"POC": 0.034703812599411965
+	},
+	{
+		"name": "cuyahoga county",
+		"state": "OH",
+		"POC": 0.40142032205409883
+	},
+	{
+		"name": "darke county",
+		"state": "OH",
+		"POC": 0.028388081310038546
+	},
+	{
+		"name": "defiance county",
+		"state": "OH",
+		"POC": 0.1296505369286108
+	},
+	{
+		"name": "delaware county",
+		"state": "OH",
+		"POC": 0.1432518871577659
+	},
+	{
+		"name": "erie county",
+		"state": "OH",
+		"POC": 0.1419222793741416
+	},
+	{
+		"name": "fairfield county",
+		"state": "OH",
+		"POC": 0.13079568964423066
+	},
+	{
+		"name": "fayette county",
+		"state": "OH",
+		"POC": 0.05619631901840491
+	},
+	{
+		"name": "franklin county",
+		"state": "OH",
+		"POC": 0.353000100246363
+	},
+	{
+		"name": "fulton county",
+		"state": "OH",
+		"POC": 0.10150500878317428
+	},
+	{
+		"name": "gallia county",
+		"state": "OH",
+		"POC": 0.044852498494882605
+	},
+	{
+		"name": "geauga county",
+		"state": "OH",
+		"POC": 0.03555830815064763
+	},
+	{
+		"name": "greene county",
+		"state": "OH",
+		"POC": 0.1335290670486631
+	},
+	{
+		"name": "guernsey county",
+		"state": "OH",
+		"POC": 0.031691318327974276
+	},
+	{
+		"name": "hamilton county",
+		"state": "OH",
+		"POC": 0.33032038978657396
+	},
+	{
+		"name": "hancock county",
+		"state": "OH",
+		"POC": 0.09775279416227914
+	},
+	{
+		"name": "hardin county",
+		"state": "OH",
+		"POC": 0.036983899250757214
+	},
+	{
+		"name": "harrison county",
+		"state": "OH",
+		"POC": 0.03523936170212766
+	},
+	{
+		"name": "henry county",
+		"state": "OH",
+		"POC": 0.09112789750425832
+	},
+	{
+		"name": "highland county",
+		"state": "OH",
+		"POC": 0.03218183081948982
+	},
+	{
+		"name": "hocking county",
+		"state": "OH",
+		"POC": 0.022608264930653835
+	},
+	{
+		"name": "holmes county",
+		"state": "OH",
+		"POC": 0.016424021838034576
+	},
+	{
+		"name": "huron county",
+		"state": "OH",
+		"POC": 0.0870490509044726
+	},
+	{
+		"name": "jackson county",
+		"state": "OH",
+		"POC": 0.02159627310029926
+	},
+	{
+		"name": "jefferson county",
+		"state": "OH",
+		"POC": 0.07620359739762725
+	},
+	{
+		"name": "knox county",
+		"state": "OH",
+		"POC": 0.03197907640961458
+	},
+	{
+		"name": "lake county",
+		"state": "OH",
+		"POC": 0.10991575023137186
+	},
+	{
+		"name": "lawrence county",
+		"state": "OH",
+		"POC": 0.036039217664766324
+	},
+	{
+		"name": "licking county",
+		"state": "OH",
+		"POC": 0.08548472820617206
+	},
+	{
+		"name": "logan county",
+		"state": "OH",
+		"POC": 0.04617708880714661
+	},
+	{
+		"name": "lorain county",
+		"state": "OH",
+		"POC": 0.207169668821591
+	},
+	{
+		"name": "lucas county",
+		"state": "OH",
+		"POC": 0.29444283619860484
+	},
+	{
+		"name": "madison county",
+		"state": "OH",
+		"POC": 0.10122733674632806
+	},
+	{
+		"name": "mahoning county",
+		"state": "OH",
+		"POC": 0.23452989509495675
+	},
+	{
+		"name": "marion county",
+		"state": "OH",
+		"POC": 0.09933479790453657
+	},
+	{
+		"name": "medina county",
+		"state": "OH",
+		"POC": 0.050938546615780046
+	},
+	{
+		"name": "meigs county",
+		"state": "OH",
+		"POC": 0.019644650106954206
+	},
+	{
+		"name": "mercer county",
+		"state": "OH",
+		"POC": 0.030603322646458757
+	},
+	{
+		"name": "miami county",
+		"state": "OH",
+		"POC": 0.060483984035443555
+	},
+	{
+		"name": "monroe county",
+		"state": "OH",
+		"POC": 0.01640544895268786
+	},
+	{
+		"name": "montgomery county",
+		"state": "OH",
+		"POC": 0.2707156654196924
+	},
+	{
+		"name": "morgan county",
+		"state": "OH",
+		"POC": 0.043010752688172046
+	},
+	{
+		"name": "morrow county",
+		"state": "OH",
+		"POC": 0.02734375
+	},
+	{
+		"name": "muskingum county",
+		"state": "OH",
+		"POC": 0.05655628370933132
+	},
+	{
+		"name": "noble county",
+		"state": "OH",
+		"POC": 0.03764559068219634
+	},
+	{
+		"name": "ottawa county",
+		"state": "OH",
+		"POC": 0.06438001233806293
+	},
+	{
+		"name": "paulding county",
+		"state": "OH",
+		"POC": 0.06394601542416453
+	},
+	{
+		"name": "perry county",
+		"state": "OH",
+		"POC": 0.016134388664415786
+	},
+	{
+		"name": "pickaway county",
+		"state": "OH",
+		"POC": 0.05894931317036454
+	},
+	{
+		"name": "pike county",
+		"state": "OH",
+		"POC": 0.025925392481636177
+	},
+	{
+		"name": "portage county",
+		"state": "OH",
+		"POC": 0.08816613937685423
+	},
+	{
+		"name": "preble county",
+		"state": "OH",
+		"POC": 0.02380020546939974
+	},
+	{
+		"name": "putnam county",
+		"state": "OH",
+		"POC": 0.07448096630341691
+	},
+	{
+		"name": "richland county",
+		"state": "OH",
+		"POC": 0.12442015946646419
+	},
+	{
+		"name": "ross county",
+		"state": "OH",
+		"POC": 0.07569196253880468
+	},
+	{
+		"name": "sandusky county",
+		"state": "OH",
+		"POC": 0.14099935062715746
+	},
+	{
+		"name": "scioto county",
+		"state": "OH",
+		"POC": 0.04498499614945429
+	},
+	{
+		"name": "seneca county",
+		"state": "OH",
+		"POC": 0.08838667584907028
+	},
+	{
+		"name": "shelby county",
+		"state": "OH",
+		"POC": 0.05147149619263223
+	},
+	{
+		"name": "stark county",
+		"state": "OH",
+		"POC": 0.11179797412885922
+	},
+	{
+		"name": "summit county",
+		"state": "OH",
+		"POC": 0.21292464321559737
+	},
+	{
+		"name": "trumbull county",
+		"state": "OH",
+		"POC": 0.11108024286017357
+	},
+	{
+		"name": "tuscarawas county",
+		"state": "OH",
+		"POC": 0.04666963810103602
+	},
+	{
+		"name": "union county",
+		"state": "OH",
+		"POC": 0.0955279039804706
+	},
+	{
+		"name": "van wert county",
+		"state": "OH",
+		"POC": 0.05191865605658709
+	},
+	{
+		"name": "vinton county",
+		"state": "OH",
+		"POC": 0.01757737867787543
+	},
+	{
+		"name": "warren county",
+		"state": "OH",
+		"POC": 0.1291037587062344
+	},
+	{
+		"name": "washington county",
+		"state": "OH",
+		"POC": 0.0315467944117107
+	},
+	{
+		"name": "wayne county",
+		"state": "OH",
+		"POC": 0.04784374729928269
+	},
+	{
+		"name": "williams county",
+		"state": "OH",
+		"POC": 0.06761691921944839
+	},
+	{
+		"name": "wood county",
+		"state": "OH",
+		"POC": 0.1039085134195097
+	},
+	{
+		"name": "wyandot county",
+		"state": "OH",
+		"POC": 0.04464449751975014
+	},
+    {
+		"name": "belknap county",
+		"state": "NH",
+		"POC": 0.036197249726767036
+	},
+	{
+		"name": "carroll county",
+		"state": "NH",
+		"POC": 0.03058679206706195
+	},
+	{
+		"name": "cheshire county",
+		"state": "NH",
+		"POC": 0.04531773674180193
+	},
+	{
+		"name": "coos county",
+		"state": "NH",
+		"POC": 0.03424896239267497
+	},
+	{
+		"name": "grafton county",
+		"state": "NH",
+		"POC": 0.07699753020492624
+	},
+	{
+		"name": "hillsborough county",
+		"state": "NH",
+		"POC": 0.14911576044601643
+	},
+	{
+		"name": "merrimack county",
+		"state": "NH",
+		"POC": 0.06277123474975395
+	},
+	{
+		"name": "rockingham county",
+		"state": "NH",
+		"POC": 0.06607181480393454
+	},
+	{
+		"name": "strafford county",
+		"state": "NH",
+		"POC": 0.07951283366377562
+	},
+	{
+		"name": "sullivan county",
+		"state": "NH",
+		"POC": 0.03599406665739582
+	},
+	{
+		"name": "atlantic county",
+		"state": "NJ",
+		"POC": 0.4459817195737096
+	},
+	{
+		"name": "bergen county",
+		"state": "NJ",
+		"POC": 0.4532794394348006
+	},
+	{
+		"name": "burlington county",
+		"state": "NJ",
+		"POC": 0.3225313181347662
+	},
+	{
+		"name": "camden county",
+		"state": "NJ",
+		"POC": 0.4521068333626209
+	},
+	{
+		"name": "cape may county",
+		"state": "NJ",
+		"POC": 0.13959299862015018
+	},
+	{
+		"name": "cumberland county",
+		"state": "NJ",
+		"POC": 0.5520140175352946
+	},
+	{
+		"name": "essex county",
+		"state": "NJ",
+		"POC": 0.7157044963859944
+	},
+	{
+		"name": "gloucester county",
+		"state": "NJ",
+		"POC": 0.21006665843723
+	},
+	{
+		"name": "hudson county",
+		"state": "NJ",
+		"POC": 0.7390075119982272
+	},
+	{
+		"name": "hunterdon county",
+		"state": "NJ",
+		"POC": 0.14135127963914418
+	},
+	{
+		"name": "mercer county",
+		"state": "NJ",
+		"POC": 0.5185450289851128
+	},
+	{
+		"name": "middlesex county",
+		"state": "NJ",
+		"POC": 0.5894041902305523
+	},
+	{
+		"name": "monmouth county",
+		"state": "NJ",
+		"POC": 0.24203007458043455
+	},
+	{
+		"name": "morris county",
+		"state": "NJ",
+		"POC": 0.28507558275472966
+	},
+	{
+		"name": "ocean county",
+		"state": "NJ",
+		"POC": 0.15070670272371234
+	},
+	{
+		"name": "passaic county",
+		"state": "NJ",
+		"POC": 0.6353098484335208
+	},
+	{
+		"name": "salem county",
+		"state": "NJ",
+		"POC": 0.25627955438005934
+	},
+	{
+		"name": "somerset county",
+		"state": "NJ",
+		"POC": 0.44540242115439577
+	},
+	{
+		"name": "sussex county",
+		"state": "NJ",
+		"POC": 0.1388018905529298
+	},
+	{
+		"name": "union county",
+		"state": "NJ",
+		"POC": 0.6228338375205136
+	},
+	{
+		"name": "warren county",
+		"state": "NJ",
+		"POC": 0.18770364881681817
+	},
+    {
+		"name": "barnstable county",
+		"state": "MA",
+		"POC": 0.08445466923329734
+	},
+	{
+		"name": "berkshire county",
+		"state": "MA",
+		"POC": 0.10427071327954923
+	},
+	{
+		"name": "bristol county",
+		"state": "MA",
+		"POC": 0.17155358030632484
+	},
+	{
+		"name": "dukes county",
+		"state": "MA",
+		"POC": 0.09675744288022156
+	},
+	{
+		"name": "essex county",
+		"state": "MA",
+		"POC": 0.33297804657340496
+	},
+	{
+		"name": "franklin county",
+		"state": "MA",
+		"POC": 0.07536335138216017
+	},
+	{
+		"name": "hampden county",
+		"state": "MA",
+		"POC": 0.3995244139871176
+	},
+	{
+		"name": "hampshire county",
+		"state": "MA",
+		"POC": 0.15009637505440526
+	},
+	{
+		"name": "middlesex county",
+		"state": "MA",
+		"POC": 0.2733506690765459
+	},
+	{
+		"name": "nantucket county",
+		"state": "MA",
+		"POC": 0.28449864023159926
+	},
+	{
+		"name": "norfolk county",
+		"state": "MA",
+		"POC": 0.24990980156343953
+	},
+	{
+		"name": "plymouth county",
+		"state": "MA",
+		"POC": 0.1749801420562469
+	},
+	{
+		"name": "suffolk county",
+		"state": "MA",
+		"POC": 0.5696852994189627
+	},
+	{
+		"name": "worcester county",
+		"state": "MA",
+		"POC": 0.236659996966129
+	},
+    {
+		"name": "allegany county",
+		"state": "MD",
+		"POC": 0.11319870483980914
+	},
+	{
+		"name": "anne arundel county",
+		"state": "MD",
+		"POC": 0.30930332128293575
+	},
+	{
+		"name": "baltimore city",
+		"state": "MD",
+		"POC": 0.7113211680062007
+	},
+	{
+		"name": "baltimore county",
+		"state": "MD",
+		"POC": 0.42453678523514266
+	},
+	{
+		"name": "calvert county",
+		"state": "MD",
+		"POC": 0.19566603620643072
+	},
+	{
+		"name": "caroline county",
+		"state": "MD",
+		"POC": 0.231245883972939
+	},
+	{
+		"name": "carroll county",
+		"state": "MD",
+		"POC": 0.09863636633481154
+	},
+	{
+		"name": "cecil county",
+		"state": "MD",
+		"POC": 0.1340819600408342
+	},
+	{
+		"name": "charles county",
+		"state": "MD",
+		"POC": 0.5973403896923255
+	},
+	{
+		"name": "dorchester county",
+		"state": "MD",
+		"POC": 0.3635566412978797
+	},
+	{
+		"name": "frederick county",
+		"state": "MD",
+		"POC": 0.26162891499420143
+	},
+	{
+		"name": "garrett county",
+		"state": "MD",
+		"POC": 0.027159302405735164
+	},
+	{
+		"name": "harford county",
+		"state": "MD",
+		"POC": 0.22698392192326214
+	},
+	{
+		"name": "howard county",
+		"state": "MD",
+		"POC": 0.47012496545795085
+	},
+	{
+		"name": "kent county",
+		"state": "MD",
+		"POC": 0.20775409329626202
+	},
+	{
+		"name": "montgomery county",
+		"state": "MD",
+		"POC": 0.5578868322470609
+	},
+	{
+		"name": "prince george's county",
+		"state": "MD",
+		"POC": 0.8832917091431355
+	},
+	{
+		"name": "queen anne's county",
+		"state": "MD",
+		"POC": 0.11800083364760525
+	},
+	{
+		"name": "somerset county",
+		"state": "MD",
+		"POC": 0.4655683947532792
+	},
+	{
+		"name": "st. mary's county",
+		"state": "MD",
+		"POC": 0.23352127565853228
+	},
+	{
+		"name": "talbot county",
+		"state": "MD",
+		"POC": 0.2144105860520158
+	},
+	{
+		"name": "washington county",
+		"state": "MD",
+		"POC": 0.20226549000655417
+	},
+	{
+		"name": "wicomico county",
+		"state": "MD",
+		"POC": 0.3591772915480315
+	},
+	{
+		"name": "worcester county",
+		"state": "MD",
+		"POC": 0.18287550692478383
+	},
+    {
+		"name": "androscoggin county",
+		"state": "ME",
+		"POC": 0.07375527582034966
+	},
+	{
+		"name": "aroostook county",
+		"state": "ME",
+		"POC": 0.030497352919245397
+	},
+	{
+		"name": "cumberland county",
+		"state": "ME",
+		"POC": 0.07753819452683533
+	},
+	{
+		"name": "franklin county",
+		"state": "ME",
+		"POC": 0.024272326898241665
+	},
+	{
+		"name": "hancock county",
+		"state": "ME",
+		"POC": 0.03842726462618437
+	},
+	{
+		"name": "kennebec county",
+		"state": "ME",
+		"POC": 0.03478275089532469
+	},
+	{
+		"name": "knox county",
+		"state": "ME",
+		"POC": 0.030574273358141404
+	},
+	{
+		"name": "lincoln county",
+		"state": "ME",
+		"POC": 0.027689553617832187
+	},
+	{
+		"name": "oxford county",
+		"state": "ME",
+		"POC": 0.030116429495472188
+	},
+	{
+		"name": "penobscot county",
+		"state": "ME",
+		"POC": 0.03658280095696296
+	},
+	{
+		"name": "piscataquis county",
+		"state": "ME",
+		"POC": 0.03175454274649985
+	},
+	{
+		"name": "sagadahoc county",
+		"state": "ME",
+		"POC": 0.03650713966979027
+	},
+	{
+		"name": "somerset county",
+		"state": "ME",
+		"POC": 0.025572458600744787
+	},
+	{
+		"name": "waldo county",
+		"state": "ME",
+		"POC": 0.0288555961223719
+	},
+	{
+		"name": "washington county",
+		"state": "ME",
+		"POC": 0.03776410975493164
+	},
+	{
+		"name": "york county",
+		"state": "ME",
+		"POC": 0.042645720257559916
+	},
+    {
+		"name": "alcona county",
+		"state": "MI",
+		"POC": 0.025564632388274867
+	},
+	{
+		"name": "alger county",
+		"state": "MI",
+		"POC": 0.09464207290294248
+	},
+	{
+		"name": "allegan county",
+		"state": "MI",
+		"POC": 0.09924543321956962
+	},
+	{
+		"name": "alpena county",
+		"state": "MI",
+		"POC": 0.026368597077979228
+	},
+	{
+		"name": "antrim county",
+		"state": "MI",
+		"POC": 0.032241468015777736
+	},
+	{
+		"name": "arenac county",
+		"state": "MI",
+		"POC": 0.028287307666465093
+	},
+	{
+		"name": "baraga county",
+		"state": "MI",
+		"POC": 0.1001339992690949
+	},
+	{
+		"name": "barry county",
+		"state": "MI",
+		"POC": 0.04331437855402112
+	},
+	{
+		"name": "bay county",
+		"state": "MI",
+		"POC": 0.07947559296394702
+	},
+	{
+		"name": "benzie county",
+		"state": "MI",
+		"POC": 0.03709332432736688
+	},
+	{
+		"name": "berrien county",
+		"state": "MI",
+		"POC": 0.22686292788182608
+	},
+	{
+		"name": "branch county",
+		"state": "MI",
+		"POC": 0.08114070363306294
+	},
+	{
+		"name": "calhoun county",
+		"state": "MI",
+		"POC": 0.19649073114736992
+	},
+	{
+		"name": "cass county",
+		"state": "MI",
+		"POC": 0.1005271593256995
+	},
+	{
+		"name": "charlevoix county",
+		"state": "MI",
+		"POC": 0.0330107485751444
+	},
+	{
+		"name": "cheboygan county",
+		"state": "MI",
+		"POC": 0.026705174869441364
+	},
+	{
+		"name": "chippewa county",
+		"state": "MI",
+		"POC": 0.09818201290529867
+	},
+	{
+		"name": "clare county",
+		"state": "MI",
+		"POC": 0.031663974151857836
+	},
+	{
+		"name": "clinton county",
+		"state": "MI",
+		"POC": 0.08397512406558201
+	},
+	{
+		"name": "crawford county",
+		"state": "MI",
+		"POC": 0.03956090954451494
+	},
+	{
+		"name": "delta county",
+		"state": "MI",
+		"POC": 0.024536105522021012
+	},
+	{
+		"name": "dickinson county",
+		"state": "MI",
+		"POC": 0.029478188517770117
+	},
+	{
+		"name": "eaton county",
+		"state": "MI",
+		"POC": 0.1535622302027787
+	},
+	{
+		"name": "emmet county",
+		"state": "MI",
+		"POC": 0.03187191381116265
+	},
+	{
+		"name": "genesee county",
+		"state": "MI",
+		"POC": 0.2488461434207381
+	},
+	{
+		"name": "gladwin county",
+		"state": "MI",
+		"POC": 0.02966717749223938
+	},
+	{
+		"name": "gogebic county",
+		"state": "MI",
+		"POC": 0.02905187835420394
+	},
+	{
+		"name": "grand traverse county",
+		"state": "MI",
+		"POC": 0.04535493296665521
+	},
+	{
+		"name": "gratiot county",
+		"state": "MI",
+		"POC": 0.13062808577534327
+	},
+	{
+		"name": "hillsdale county",
+		"state": "MI",
+		"POC": 0.03620217081460366
+	},
+	{
+		"name": "houghton county",
+		"state": "MI",
+		"POC": 0.05680416993610582
+	},
+	{
+		"name": "huron county",
+		"state": "MI",
+		"POC": 0.03924986281914722
+	},
+	{
+		"name": "ingham county",
+		"state": "MI",
+		"POC": 0.2745497698405642
+	},
+	{
+		"name": "ionia county",
+		"state": "MI",
+		"POC": 0.10151939038904433
+	},
+	{
+		"name": "iosco county",
+		"state": "MI",
+		"POC": 0.042464281450232816
+	},
+	{
+		"name": "iron county",
+		"state": "MI",
+		"POC": 0.032441713356226275
+	},
+	{
+		"name": "isabella county",
+		"state": "MI",
+		"POC": 0.08630066407144493
+	},
+	{
+		"name": "jackson county",
+		"state": "MI",
+		"POC": 0.12707084726515677
+	},
+	{
+		"name": "kalamazoo county",
+		"state": "MI",
+		"POC": 0.19863354787109627
+	},
+	{
+		"name": "kalkaska county",
+		"state": "MI",
+		"POC": 0.03475995121410356
+	},
+	{
+		"name": "kent county",
+		"state": "MI",
+		"POC": 0.24775212914126538
+	},
+	{
+		"name": "keweenaw county",
+		"state": "MI",
+		"POC": 0.021739130434782608
+	},
+	{
+		"name": "lake county",
+		"state": "MI",
+		"POC": 0.10765207120560195
+	},
+	{
+		"name": "lapeer county",
+		"state": "MI",
+		"POC": 0.06601070690698231
+	},
+	{
+		"name": "leelanau county",
+		"state": "MI",
+		"POC": 0.058958687560314325
+	},
+	{
+		"name": "lenawee county",
+		"state": "MI",
+		"POC": 0.11629135305888208
+	},
+	{
+		"name": "livingston county",
+		"state": "MI",
+		"POC": 0.04210005468892419
+	},
+	{
+		"name": "luce county",
+		"state": "MI",
+		"POC": 0.13966928881040294
+	},
+	{
+		"name": "mackinac county",
+		"state": "MI",
+		"POC": 0.06352440040744513
+	},
+	{
+		"name": "macomb county",
+		"state": "MI",
+		"POC": 0.19607264305950303
+	},
+	{
+		"name": "manistee county",
+		"state": "MI",
+		"POC": 0.07329587099926704
+	},
+	{
+		"name": "marquette county",
+		"state": "MI",
+		"POC": 0.041844705317920804
+	},
+	{
+		"name": "mason county",
+		"state": "MI",
+		"POC": 0.06258578094976668
+	},
+	{
+		"name": "mecosta county",
+		"state": "MI",
+		"POC": 0.06199802085011392
+	},
+	{
+		"name": "menominee county",
+		"state": "MI",
+		"POC": 0.03143107989464443
+	},
+	{
+		"name": "midland county",
+		"state": "MI",
+		"POC": 0.06760786954639472
+	},
+	{
+		"name": "missaukee county",
+		"state": "MI",
+		"POC": 0.04286281254134145
+	},
+	{
+		"name": "monroe county",
+		"state": "MI",
+		"POC": 0.07093023255813953
+	},
+	{
+		"name": "montcalm county",
+		"state": "MI",
+		"POC": 0.06542699724517906
+	},
+	{
+		"name": "montmorency county",
+		"state": "MI",
+		"POC": 0.02251286449399657
+	},
+	{
+		"name": "muskegon county",
+		"state": "MI",
+		"POC": 0.20457347637210055
+	},
+	{
+		"name": "newaygo county",
+		"state": "MI",
+		"POC": 0.07705185790118416
+	},
+	{
+		"name": "oakland county",
+		"state": "MI",
+		"POC": 0.2643274723596992
+	},
+	{
+		"name": "oceana county",
+		"state": "MI",
+		"POC": 0.16650923791891792
+	},
+	{
+		"name": "ogemaw county",
+		"state": "MI",
+		"POC": 0.03376672858027337
+	},
+	{
+		"name": "ontonagon county",
+		"state": "MI",
+		"POC": 0.025
+	},
+	{
+		"name": "osceola county",
+		"state": "MI",
+		"POC": 0.03397271952259164
+	},
+	{
+		"name": "oscoda county",
+		"state": "MI",
+		"POC": 0.025603688872709623
+	},
+	{
+		"name": "otsego county",
+		"state": "MI",
+		"POC": 0.03145775904005189
+	},
+	{
+		"name": "ottawa county",
+		"state": "MI",
+		"POC": 0.15036493849158755
+	},
+	{
+		"name": "presque isle county",
+		"state": "MI",
+		"POC": 0.028192503176620077
+	},
+	{
+		"name": "roscommon county",
+		"state": "MI",
+		"POC": 0.03434780798534494
+	},
+	{
+		"name": "saginaw county",
+		"state": "MI",
+		"POC": 0.2936721616047109
+	},
+	{
+		"name": "sanilac county",
+		"state": "MI",
+		"POC": 0.047728928831673546
+	},
+	{
+		"name": "schoolcraft county",
+		"state": "MI",
+		"POC": 0.02001482579688658
+	},
+	{
+		"name": "shiawassee county",
+		"state": "MI",
+		"POC": 0.04392120019964182
+	},
+	{
+		"name": "st. clair county",
+		"state": "MI",
+		"POC": 0.06685812679101101
+	},
+	{
+		"name": "st. joseph county",
+		"state": "MI",
+		"POC": 0.1156256151171183
+	},
+	{
+		"name": "tuscola county",
+		"state": "MI",
+		"POC": 0.05263661594410948
+	},
+	{
+		"name": "van buren county",
+		"state": "MI",
+		"POC": 0.16311428835709663
+	},
+	{
+		"name": "washtenaw county",
+		"state": "MI",
+		"POC": 0.26604933066014513
+	},
+	{
+		"name": "wayne county",
+		"state": "MI",
+		"POC": 0.4840337200880559
+	},
+	{
+		"name": "wexford county",
+		"state": "MI",
+		"POC": 0.03458118997353632
+	},
+    {
+		"name": "aitkin county",
+		"state": "MN",
+		"POC": 0.022913256955810146
+	},
+	{
+		"name": "anoka county",
+		"state": "MN",
+		"POC": 0.1722089762160254
+	},
+	{
+		"name": "becker county",
+		"state": "MN",
+		"POC": 0.03465706068616913
+	},
+	{
+		"name": "beltrami county",
+		"state": "MN",
+		"POC": 0.041981012121725864
+	},
+	{
+		"name": "benton county",
+		"state": "MN",
+		"POC": 0.09090464428085793
+	},
+	{
+		"name": "big stone county",
+		"state": "MN",
+		"POC": 0.028851933480264474
+	},
+	{
+		"name": "blue earth county",
+		"state": "MN",
+		"POC": 0.10756359658847353
+	},
+	{
+		"name": "brown county",
+		"state": "MN",
+		"POC": 0.06062060140754959
+	},
+	{
+		"name": "carlton county",
+		"state": "MN",
+		"POC": 0.040924423629115435
+	},
+	{
+		"name": "carver county",
+		"state": "MN",
+		"POC": 0.09943952269029108
+	},
+	{
+		"name": "cass county",
+		"state": "MN",
+		"POC": 0.03176735283253299
+	},
+	{
+		"name": "chippewa county",
+		"state": "MN",
+		"POC": 0.10084745762711864
+	},
+	{
+		"name": "chisago county",
+		"state": "MN",
+		"POC": 0.05150320790399265
+	},
+	{
+		"name": "clay county",
+		"state": "MN",
+		"POC": 0.10522873781570179
+	},
+	{
+		"name": "clearwater county",
+		"state": "MN",
+		"POC": 0.03549557722839646
+	},
+	{
+		"name": "cook county",
+		"state": "MN",
+		"POC": 0.04704374885593996
+	},
+	{
+		"name": "cottonwood county",
+		"state": "MN",
+		"POC": 0.13844230082172204
+	},
+	{
+		"name": "crow wing county",
+		"state": "MN",
+		"POC": 0.028775651371916074
+	},
+	{
+		"name": "dakota county",
+		"state": "MN",
+		"POC": 0.20265907729458463
+	},
+	{
+		"name": "dodge county",
+		"state": "MN",
+		"POC": 0.0644883920894239
+	},
+	{
+		"name": "douglas county",
+		"state": "MN",
+		"POC": 0.029338507118324114
+	},
+	{
+		"name": "faribault county",
+		"state": "MN",
+		"POC": 0.08628140335457407
+	},
+	{
+		"name": "fillmore county",
+		"state": "MN",
+		"POC": 0.030331798547491337
+	},
+	{
+		"name": "freeborn county",
+		"state": "MN",
+		"POC": 0.1485750140352036
+	},
+	{
+		"name": "goodhue county",
+		"state": "MN",
+		"POC": 0.05664652567975831
+	},
+	{
+		"name": "grant county",
+		"state": "MN",
+		"POC": 0.03315472203616879
+	},
+	{
+		"name": "hennepin county",
+		"state": "MN",
+		"POC": 0.28351304229671453
+	},
+	{
+		"name": "houston county",
+		"state": "MN",
+		"POC": 0.026827956989247313
+	},
+	{
+		"name": "hubbard county",
+		"state": "MN",
+		"POC": 0.03466567400307105
+	},
+	{
+		"name": "isanti county",
+		"state": "MN",
+		"POC": 0.04443787565277367
+	},
+	{
+		"name": "itasca county",
+		"state": "MN",
+		"POC": 0.025149567914912477
+	},
+	{
+		"name": "jackson county",
+		"state": "MN",
+		"POC": 0.06703229737964655
+	},
+	{
+		"name": "kanabec county",
+		"state": "MN",
+		"POC": 0.030176899063475544
+	},
+	{
+		"name": "kandiyohi county",
+		"state": "MN",
+		"POC": 0.20539827310817382
+	},
+	{
+		"name": "kittson county",
+		"state": "MN",
+		"POC": 0.03932061423918101
+	},
+	{
+		"name": "koochiching county",
+		"state": "MN",
+		"POC": 0.026412625725733913
+	},
+	{
+		"name": "lac qui parle county",
+		"state": "MN",
+		"POC": 0.04197493582968444
+	},
+	{
+		"name": "lake county",
+		"state": "MN",
+		"POC": 0.02678319706794474
+	},
+	{
+		"name": "lake of the woods county",
+		"state": "MN",
+		"POC": 0.04090909090909091
+	},
+	{
+		"name": "le sueur county",
+		"state": "MN",
+		"POC": 0.08304773773669817
+	},
+	{
+		"name": "lincoln county",
+		"state": "MN",
+		"POC": 0.03156588047526157
+	},
+	{
+		"name": "lyon county",
+		"state": "MN",
+		"POC": 0.15286174138337127
+	},
+	{
+		"name": "mahnomen county",
+		"state": "MN",
+		"POC": 0.05066039442735661
+	},
+	{
+		"name": "marshall county",
+		"state": "MN",
+		"POC": 0.05526992287917738
+	},
+	{
+		"name": "martin county",
+		"state": "MN",
+		"POC": 0.0650307371843723
+	},
+	{
+		"name": "mcleod county",
+		"state": "MN",
+		"POC": 0.08257877580586744
+	},
+	{
+		"name": "meeker county",
+		"state": "MN",
+		"POC": 0.05490483162518302
+	},
+	{
+		"name": "mille lacs county",
+		"state": "MN",
+		"POC": 0.039350001902804736
+	},
+	{
+		"name": "morrison county",
+		"state": "MN",
+		"POC": 0.0315701192116456
+	},
+	{
+		"name": "mower county",
+		"state": "MN",
+		"POC": 0.21356896809944587
+	},
+	{
+		"name": "murray county",
+		"state": "MN",
+		"POC": 0.06516963631925798
+	},
+	{
+		"name": "nicollet county",
+		"state": "MN",
+		"POC": 0.1045107078251736
+	},
+	{
+		"name": "nobles county",
+		"state": "MN",
+		"POC": 0.414489805353923
+	},
+	{
+		"name": "norman county",
+		"state": "MN",
+		"POC": 0.0676078431372549
+	},
+	{
+		"name": "olmsted county",
+		"state": "MN",
+		"POC": 0.18661595901271696
+	},
+	{
+		"name": "otter tail county",
+		"state": "MN",
+		"POC": 0.05957852449528478
+	},
+	{
+		"name": "pennington county",
+		"state": "MN",
+		"POC": 0.06360223811884694
+	},
+	{
+		"name": "pine county",
+		"state": "MN",
+		"POC": 0.061023023090706244
+	},
+	{
+		"name": "pipestone county",
+		"state": "MN",
+		"POC": 0.1061801446416831
+	},
+	{
+		"name": "polk county",
+		"state": "MN",
+		"POC": 0.10776686647111337
+	},
+	{
+		"name": "pope county",
+		"state": "MN",
+		"POC": 0.03102497999822206
+	},
+	{
+		"name": "ramsey county",
+		"state": "MN",
+		"POC": 0.3570134521488368
+	},
+	{
+		"name": "red lake county",
+		"state": "MN",
+		"POC": 0.051787916152897656
+	},
+	{
+		"name": "redwood county",
+		"state": "MN",
+		"POC": 0.07534607778510218
+	},
+	{
+		"name": "renville county",
+		"state": "MN",
+		"POC": 0.10434423975804234
+	},
+	{
+		"name": "rice county",
+		"state": "MN",
+		"POC": 0.1691901092994087
+	},
+	{
+		"name": "rock county",
+		"state": "MN",
+		"POC": 0.052281266774020396
+	},
+	{
+		"name": "roseau county",
+		"state": "MN",
+		"POC": 0.049258160237388715
+	},
+	{
+		"name": "scott county",
+		"state": "MN",
+		"POC": 0.1711058766684786
+	},
+	{
+		"name": "sherburne county",
+		"state": "MN",
+		"POC": 0.07181348855385755
+	},
+	{
+		"name": "sibley county",
+		"state": "MN",
+		"POC": 0.10857719475277498
+	},
+	{
+		"name": "st. louis county",
+		"state": "MN",
+		"POC": 0.046219922640277286
+	},
+	{
+		"name": "stearns county",
+		"state": "MN",
+		"POC": 0.13677479435045786
+	},
+	{
+		"name": "steele county",
+		"state": "MN",
+		"POC": 0.12783432017244672
+	},
+	{
+		"name": "stevens county",
+		"state": "MN",
+		"POC": 0.1112697603263641
+	},
+	{
+		"name": "swift county",
+		"state": "MN",
+		"POC": 0.07014893157781135
+	},
+	{
+		"name": "todd county",
+		"state": "MN",
+		"POC": 0.08064385338955563
+	},
+	{
+		"name": "traverse county",
+		"state": "MN",
+		"POC": 0.05154955507824486
+	},
+	{
+		"name": "wabasha county",
+		"state": "MN",
+		"POC": 0.043186757294123086
+	},
+	{
+		"name": "wadena county",
+		"state": "MN",
+		"POC": 0.03807922818301418
+	},
+	{
+		"name": "waseca county",
+		"state": "MN",
+		"POC": 0.0952073930797335
+	},
+	{
+		"name": "washington county",
+		"state": "MN",
+		"POC": 0.15922496570644717
+	},
+	{
+		"name": "watonwan county",
+		"state": "MN",
+		"POC": 0.2929246581627971
+	},
+	{
+		"name": "wilkin county",
+		"state": "MN",
+		"POC": 0.041565973900434997
+	},
+	{
+		"name": "winona county",
+		"state": "MN",
+		"POC": 0.07562792171777197
+	},
+	{
+		"name": "wright county",
+		"state": "MN",
+		"POC": 0.06391958201146145
+	},
+	{
+		"name": "yellow medicine county",
+		"state": "MN",
+		"POC": 0.06571222576990421
+	},
+	{
+		"name": "adair county",
+		"state": "MO",
+		"POC": 0.0857435978376672
+	},
+	{
+		"name": "andrew county",
+		"state": "MO",
+		"POC": 0.044546070460704607
+	},
+	{
+		"name": "atchison county",
+		"state": "MO",
+		"POC": 0.023721563289908616
+	},
+	{
+		"name": "audrain county",
+		"state": "MO",
+		"POC": 0.106664565936663
+	},
+	{
+		"name": "barry county",
+		"state": "MO",
+		"POC": 0.13031937187403952
+	},
+	{
+		"name": "barton county",
+		"state": "MO",
+		"POC": 0.04066700697634848
+	},
+	{
+		"name": "bates county",
+		"state": "MO",
+		"POC": 0.03839970319069998
+	},
+	{
+		"name": "benton county",
+		"state": "MO",
+		"POC": 0.03163092115414288
+	},
+	{
+		"name": "bollinger county",
+		"state": "MO",
+		"POC": 0.022747877688947496
+	},
+	{
+		"name": "boone county",
+		"state": "MO",
+		"POC": 0.18383269700714272
+	},
+	{
+		"name": "bucha0 county",
+		"state": "MO",
+		"POC": 0.14322833203607893
+	},
+	{
+		"name": "butler county",
+		"state": "MO",
+		"POC": 0.08722162060360657
+	},
+	{
+		"name": "caldwell county",
+		"state": "MO",
+		"POC": 0.0352549889135255
+	},
+	{
+		"name": "callaway county",
+		"state": "MO",
+		"POC": 0.0762353887758979
+	},
+	{
+		"name": "camden county",
+		"state": "MO",
+		"POC": 0.04209048698844617
+	},
+	{
+		"name": "cape girardeau county",
+		"state": "MO",
+		"POC": 0.12307438729063913
+	},
+	{
+		"name": "carroll county",
+		"state": "MO",
+		"POC": 0.03652494527019241
+	},
+	{
+		"name": "carter county",
+		"state": "MO",
+		"POC": 0.03560682046138415
+	},
+	{
+		"name": "cass county",
+		"state": "MO",
+		"POC": 0.10007562866326337
+	},
+	{
+		"name": "cedar county",
+		"state": "MO",
+		"POC": 0.033730573559133045
+	},
+	{
+		"name": "chariton county",
+		"state": "MO",
+		"POC": 0.03595475356854296
+	},
+	{
+		"name": "christian county",
+		"state": "MO",
+		"POC": 0.04722614143010328
+	},
+	{
+		"name": "clark county",
+		"state": "MO",
+		"POC": 0.017066352802707074
+	},
+	{
+		"name": "clay county",
+		"state": "MO",
+		"POC": 0.16873509690015523
+	},
+	{
+		"name": "clinton county",
+		"state": "MO",
+		"POC": 0.04228184627458675
+	},
+	{
+		"name": "cole county",
+		"state": "MO",
+		"POC": 0.16562642517427842
+	},
+	{
+		"name": "cooper county",
+		"state": "MO",
+		"POC": 0.09791631373877688
+	},
+	{
+		"name": "crawford county",
+		"state": "MO",
+		"POC": 0.029515050167224083
+	},
+	{
+		"name": "dade county",
+		"state": "MO",
+		"POC": 0.034122470572675576
+	},
+	{
+		"name": "dallas county",
+		"state": "MO",
+		"POC": 0.03069084014693684
+	},
+	{
+		"name": "daviess county",
+		"state": "MO",
+		"POC": 0.023918820971249095
+	},
+	{
+		"name": "dekalb county",
+		"state": "MO",
+		"POC": 0.15087271857814616
+	},
+	{
+		"name": "dent county",
+		"state": "MO",
+		"POC": 0.03358376677582996
+	},
+	{
+		"name": "douglas county",
+		"state": "MO",
+		"POC": 0.025635191505498672
+	},
+	{
+		"name": "dunklin county",
+		"state": "MO",
+		"POC": 0.18509491606879272
+	},
+	{
+		"name": "franklin county",
+		"state": "MO",
+		"POC": 0.03410697625207999
+	},
+	{
+		"name": "gasconade county",
+		"state": "MO",
+		"POC": 0.026179790561675503
+	},
+	{
+		"name": "gentry county",
+		"state": "MO",
+		"POC": 0.02952366458682088
+	},
+	{
+		"name": "greene county",
+		"state": "MO",
+		"POC": 0.09684870652300007
+	},
+	{
+		"name": "grundy county",
+		"state": "MO",
+		"POC": 0.045279187817258884
+	},
+	{
+		"name": "harrison county",
+		"state": "MO",
+		"POC": 0.03639846743295019
+	},
+	{
+		"name": "henry county",
+		"state": "MO",
+		"POC": 0.042109604105571845
+	},
+	{
+		"name": "hickory county",
+		"state": "MO",
+		"POC": 0.02912824811399832
+	},
+	{
+		"name": "holt county",
+		"state": "MO",
+		"POC": 0.024074494662729956
+	},
+	{
+		"name": "howard county",
+		"state": "MO",
+		"POC": 0.071992800719928
+	},
+	{
+		"name": "howell county",
+		"state": "MO",
+		"POC": 0.03544631951541741
+	},
+	{
+		"name": "iron county",
+		"state": "MO",
+		"POC": 0.03496296296296296
+	},
+	{
+		"name": "jackson county",
+		"state": "MO",
+		"POC": 0.3494881303421995
+	},
+	{
+		"name": "jasper county",
+		"state": "MO",
+		"POC": 0.12031023341685348
+	},
+	{
+		"name": "jefferson county",
+		"state": "MO",
+		"POC": 0.04083863142601996
+	},
+	{
+		"name": "johnson county",
+		"state": "MO",
+		"POC": 0.11616292405016464
+	},
+	{
+		"name": "knox county",
+		"state": "MO",
+		"POC": 0.024248547613033595
+	},
+	{
+		"name": "laclede county",
+		"state": "MO",
+		"POC": 0.04095400722223778
+	},
+	{
+		"name": "lafayette county",
+		"state": "MO",
+		"POC": 0.05848722025192614
+	},
+	{
+		"name": "lawrence county",
+		"state": "MO",
+		"POC": 0.09109633685308305
+	},
+	{
+		"name": "lewis county",
+		"state": "MO",
+		"POC": 0.05452127659574468
+	},
+	{
+		"name": "lincoln county",
+		"state": "MO",
+		"POC": 0.05164963652076661
+	},
+	{
+		"name": "linn county",
+		"state": "MO",
+		"POC": 0.040771812080536915
+	},
+	{
+		"name": "livingston county",
+		"state": "MO",
+		"POC": 0.06580416365666251
+	},
+	{
+		"name": "macon county",
+		"state": "MO",
+		"POC": 0.04895151154329562
+	},
+	{
+		"name": "madison county",
+		"state": "MO",
+		"POC": 0.03987425545996029
+	},
+	{
+		"name": "maries county",
+		"state": "MO",
+		"POC": 0.025641025641025644
+	},
+	{
+		"name": "marion county",
+		"state": "MO",
+		"POC": 0.07528916929547845
+	},
+	{
+		"name": "mcdonald county",
+		"state": "MO",
+		"POC": 0.15015107063099356
+	},
+	{
+		"name": "mercer county",
+		"state": "MO",
+		"POC": 0.03953552667956871
+	},
+	{
+		"name": "miller county",
+		"state": "MO",
+		"POC": 0.033529802100003905
+	},
+	{
+		"name": "mississippi county",
+		"state": "MO",
+		"POC": 0.2758725341426404
+	},
+	{
+		"name": "moniteau county",
+		"state": "MO",
+		"POC": 0.09880981899330524
+	},
+	{
+		"name": "monroe county",
+		"state": "MO",
+		"POC": 0.049861175381767694
+	},
+	{
+		"name": "montgomery county",
+		"state": "MO",
+		"POC": 0.04458488442559086
+	},
+	{
+		"name": "morgan county",
+		"state": "MO",
+		"POC": 0.03786299510350512
+	},
+	{
+		"name": "new madrid county",
+		"state": "MO",
+		"POC": 0.18364956664324197
+	},
+	{
+		"name": "newton county",
+		"state": "MO",
+		"POC": 0.08128992375849989
+	},
+	{
+		"name": "nodaway county",
+		"state": "MO",
+		"POC": 0.06282817309433278
+	},
+	{
+		"name": "oregon county",
+		"state": "MO",
+		"POC": 0.02668819451039985
+	},
+	{
+		"name": "osage county",
+		"state": "MO",
+		"POC": 0.01483657730444363
+	},
+	{
+		"name": "ozark county",
+		"state": "MO",
+		"POC": 0.024525833878351864
+	},
+	{
+		"name": "pemiscot county",
+		"state": "MO",
+		"POC": 0.294147421701993
+	},
+	{
+		"name": "perry county",
+		"state": "MO",
+		"POC": 0.04081312709030101
+	},
+	{
+		"name": "pettis county",
+		"state": "MO",
+		"POC": 0.13047072439122323
+	},
+	{
+		"name": "phelps county",
+		"state": "MO",
+		"POC": 0.08725012900186212
+	},
+	{
+		"name": "pike county",
+		"state": "MO",
+		"POC": 0.10419626270352966
+	},
+	{
+		"name": "platte county",
+		"state": "MO",
+		"POC": 0.16899385163477562
+	},
+	{
+		"name": "polk county",
+		"state": "MO",
+		"POC": 0.043485022862297426
+	},
+	{
+		"name": "pulaski county",
+		"state": "MO",
+		"POC": 0.27270135153116504
+	},
+	{
+		"name": "putnam county",
+		"state": "MO",
+		"POC": 0.032793867120954
+	},
+	{
+		"name": "ralls county",
+		"state": "MO",
+		"POC": 0.03026481715006305
+	},
+	{
+		"name": "randolph county",
+		"state": "MO",
+		"POC": 0.08590593179246807
+	},
+	{
+		"name": "ray county",
+		"state": "MO",
+		"POC": 0.04474758884351377
+	},
+	{
+		"name": "reynolds county",
+		"state": "MO",
+		"POC": 0.031100478468899517
+	},
+	{
+		"name": "ripley county",
+		"state": "MO",
+		"POC": 0.024458157736303433
+	},
+	{
+		"name": "saline county",
+		"state": "MO",
+		"POC": 0.17235622336452705
+	},
+	{
+		"name": "schuyler county",
+		"state": "MO",
+		"POC": 0.02167381974248927
+	},
+	{
+		"name": "scotland county",
+		"state": "MO",
+		"POC": 0.014279885760913914
+	},
+	{
+		"name": "scott county",
+		"state": "MO",
+		"POC": 0.14950365726227796
+	},
+	{
+		"name": "shannon county",
+		"state": "MO",
+		"POC": 0.02816556453588048
+	},
+	{
+		"name": "shelby county",
+		"state": "MO",
+		"POC": 0.032715008431703205
+	},
+	{
+		"name": "st. charles county",
+		"state": "MO",
+		"POC": 0.11462556775499848
+	},
+	{
+		"name": "st. clair county",
+		"state": "MO",
+		"POC": 0.032989251888900714
+	},
+	{
+		"name": "st. francois county",
+		"state": "MO",
+		"POC": 0.06770810087034144
+	},
+	{
+		"name": "st. louis city",
+		"state": "MO",
+		"POC": 0.5309539018417971
+	},
+	{
+		"name": "st. louis county",
+		"state": "MO",
+		"POC": 0.3266962045051071
+	},
+	{
+		"name": "ste. genevieve county",
+		"state": "MO",
+		"POC": 0.02397451659774226
+	},
+	{
+		"name": "stoddard county",
+		"state": "MO",
+		"POC": 0.034659776055124894
+	},
+	{
+		"name": "stone county",
+		"state": "MO",
+		"POC": 0.03223585378067101
+	},
+	{
+		"name": "sullivan county",
+		"state": "MO",
+		"POC": 0.2236820495976351
+	},
+	{
+		"name": "taney county",
+		"state": "MO",
+		"POC": 0.09242240022886569
+	},
+	{
+		"name": "texas county",
+		"state": "MO",
+		"POC": 0.06394204268052603
+	},
+	{
+		"name": "vernon county",
+		"state": "MO",
+		"POC": 0.03939113942518115
+	},
+	{
+		"name": "warren county",
+		"state": "MO",
+		"POC": 0.06269460573929142
+	},
+	{
+		"name": "washington county",
+		"state": "MO",
+		"POC": 0.042943792964011324
+	},
+	{
+		"name": "wayne county",
+		"state": "MO",
+		"POC": 0.029674512545638153
+	},
+	{
+		"name": "webster county",
+		"state": "MO",
+		"POC": 0.03682562133764397
+	},
+	{
+		"name": "worth county",
+		"state": "MO",
+		"POC": 0.029309488325881768
+	},
+	{
+		"name": "wright county",
+		"state": "MO",
+		"POC": 0.03329870413910001
+	},
+	{
+		"name": "adair county",
+		"state": "KY",
+		"POC": 0.054525570253098635
+	},
+	{
+		"name": "allen county",
+		"state": "KY",
+		"POC": 0.039455782312925174
+	},
+	{
+		"name": "anderson county",
+		"state": "KY",
+		"POC": 0.04769859761726822
+	},
+	{
+		"name": "ballard county",
+		"state": "KY",
+		"POC": 0.05476673427991886
+	},
+	{
+		"name": "barren county",
+		"state": "KY",
+		"POC": 0.0849962711021718
+	},
+	{
+		"name": "bath county",
+		"state": "KY",
+		"POC": 0.03496
+	},
+	{
+		"name": "bell county",
+		"state": "KY",
+		"POC": 0.039989244007375545
+	},
+	{
+		"name": "boone county",
+		"state": "KY",
+		"POC": 0.10656455633660476
+	},
+	{
+		"name": "bourbon county",
+		"state": "KY",
+		"POC": 0.13295936931473618
+	},
+	{
+		"name": "boyd county",
+		"state": "KY",
+		"POC": 0.05353396977610343
+	},
+	{
+		"name": "boyle county",
+		"state": "KY",
+		"POC": 0.12651363938789087
+	},
+	{
+		"name": "bracken county",
+		"state": "KY",
+		"POC": 0.025292063109719376
+	},
+	{
+		"name": "breathitt county",
+		"state": "KY",
+		"POC": 0.023752969121140145
+	},
+	{
+		"name": "breckinridge county",
+		"state": "KY",
+		"POC": 0.04478195048102749
+	},
+	{
+		"name": "bullitt county",
+		"state": "KY",
+		"POC": 0.04343993339536706
+	},
+	{
+		"name": "butler county",
+		"state": "KY",
+		"POC": 0.04433574035251184
+	},
+	{
+		"name": "caldwell county",
+		"state": "KY",
+		"POC": 0.07593943673021103
+	},
+	{
+		"name": "calloway county",
+		"state": "KY",
+		"POC": 0.08571575087818262
+	},
+	{
+		"name": "campbell county",
+		"state": "KY",
+		"POC": 0.06266028380919815
+	},
+	{
+		"name": "carlisle county",
+		"state": "KY",
+		"POC": 0.042226890756302524
+	},
+	{
+		"name": "carroll county",
+		"state": "KY",
+		"POC": 0.09679239958611607
+	},
+	{
+		"name": "carter county",
+		"state": "KY",
+		"POC": 0.02399522334589693
+	},
+	{
+		"name": "casey county",
+		"state": "KY",
+		"POC": 0.04406213255770778
+	},
+	{
+		"name": "christian county",
+		"state": "KY",
+		"POC": 0.317622514582535
+	},
+	{
+		"name": "clark county",
+		"state": "KY",
+		"POC": 0.08559688939139068
+	},
+	{
+		"name": "clay county",
+		"state": "KY",
+		"POC": 0.06396663484247023
+	},
+	{
+		"name": "clinton county",
+		"state": "KY",
+		"POC": 0.03807007242121746
+	},
+	{
+		"name": "crittenden county",
+		"state": "KY",
+		"POC": 0.02543720190779014
+	},
+	{
+		"name": "cumberland county",
+		"state": "KY",
+		"POC": 0.04626549742969459
+	},
+	{
+		"name": "daviess county",
+		"state": "KY",
+		"POC": 0.10305287111741585
+	},
+	{
+		"name": "edmonson county",
+		"state": "KY",
+		"POC": 0.03835390946502058
+	},
+	{
+		"name": "elliott county",
+		"state": "KY",
+		"POC": 0.05201543168817348
+	},
+	{
+		"name": "estill county",
+		"state": "KY",
+		"POC": 0.018360981142776123
+	},
+	{
+		"name": "fayette county",
+		"state": "KY",
+		"POC": 0.27125934544734365
+	},
+	{
+		"name": "fleming county",
+		"state": "KY",
+		"POC": 0.032850970440984846
+	},
+	{
+		"name": "floyd county",
+		"state": "KY",
+		"POC": 0.023321812919722386
+	},
+	{
+		"name": "franklin county",
+		"state": "KY",
+		"POC": 0.16295032456708047
+	},
+	{
+		"name": "fulton county",
+		"state": "KY",
+		"POC": 0.2760931479309767
+	},
+	{
+		"name": "gallatin county",
+		"state": "KY",
+		"POC": 0.0730634795354606
+	},
+	{
+		"name": "garrard county",
+		"state": "KY",
+		"POC": 0.0457375750028303
+	},
+	{
+		"name": "grant county",
+		"state": "KY",
+		"POC": 0.04387889425186485
+	},
+	{
+		"name": "graves county",
+		"state": "KY",
+		"POC": 0.11959963505608331
+	},
+	{
+		"name": "grayson county",
+		"state": "KY",
+		"POC": 0.028796306807431792
+	},
+	{
+		"name": "green county",
+		"state": "KY",
+		"POC": 0.04158669225847729
+	},
+	{
+		"name": "greenup county",
+		"state": "KY",
+		"POC": 0.025784945011111744
+	},
+	{
+		"name": "hancock county",
+		"state": "KY",
+		"POC": 0.03531300160513644
+	},
+	{
+		"name": "hardin county",
+		"state": "KY",
+		"POC": 0.20758304944213127
+	},
+	{
+		"name": "harlan county",
+		"state": "KY",
+		"POC": 0.03575547866205306
+	},
+	{
+		"name": "harrison county",
+		"state": "KY",
+		"POC": 0.051360796357089906
+	},
+	{
+		"name": "hart county",
+		"state": "KY",
+		"POC": 0.06887312844759652
+	},
+	{
+		"name": "henderson county",
+		"state": "KY",
+		"POC": 0.11796062817960629
+	},
+	{
+		"name": "henry county",
+		"state": "KY",
+		"POC": 0.06728264913803796
+	},
+	{
+		"name": "hickman county",
+		"state": "KY",
+		"POC": 0.1184931506849315
+	},
+	{
+		"name": "hopkins county",
+		"state": "KY",
+		"POC": 0.096562681824285
+	},
+	{
+		"name": "jackson county",
+		"state": "KY",
+		"POC": 0.013654437692249981
+	},
+	{
+		"name": "jefferson county",
+		"state": "KY",
+		"POC": 0.3132009228477862
+	},
+	{
+		"name": "jessamine county",
+		"state": "KY",
+		"POC": 0.09577751085650929
+	},
+	{
+		"name": "johnson county",
+		"state": "KY",
+		"POC": 0.018072832161528756
+	},
+	{
+		"name": "kenton county",
+		"state": "KY",
+		"POC": 0.09670774500293416
+	},
+	{
+		"name": "knott county",
+		"state": "KY",
+		"POC": 0.022220721329190864
+	},
+	{
+		"name": "knox county",
+		"state": "KY",
+		"POC": 0.029860330711189598
+	},
+	{
+		"name": "larue county",
+		"state": "KY",
+		"POC": 0.06653701903042089
+	},
+	{
+		"name": "laurel county",
+		"state": "KY",
+		"POC": 0.030026474602469867
+	},
+	{
+		"name": "lawrence county",
+		"state": "KY",
+		"POC": 0.021022393419076843
+	},
+	{
+		"name": "lee county",
+		"state": "KY",
+		"POC": 0.04376604079427259
+	},
+	{
+		"name": "leslie county",
+		"state": "KY",
+		"POC": 0.014781816340994229
+	},
+	{
+		"name": "letcher county",
+		"state": "KY",
+		"POC": 0.016656613928455438
+	},
+	{
+		"name": "lewis county",
+		"state": "KY",
+		"POC": 0.012881355932203388
+	},
+	{
+		"name": "lincoln county",
+		"state": "KY",
+		"POC": 0.04269012994419325
+	},
+	{
+		"name": "livingston county",
+		"state": "KY",
+		"POC": 0.03513160757015445
+	},
+	{
+		"name": "logan county",
+		"state": "KY",
+		"POC": 0.09645044646151575
+	},
+	{
+		"name": "lyon county",
+		"state": "KY",
+		"POC": 0.08599269183922047
+	},
+	{
+		"name": "madison county",
+		"state": "KY",
+		"POC": 0.08305462053835483
+	},
+	{
+		"name": "magoffin county",
+		"state": "KY",
+		"POC": 0.016034865553819586
+	},
+	{
+		"name": "marion county",
+		"state": "KY",
+		"POC": 0.10512115394593473
+	},
+	{
+		"name": "marshall county",
+		"state": "KY",
+		"POC": 0.028070739549839227
+	},
+	{
+		"name": "martin county",
+		"state": "KY",
+		"POC": 0.10772666368914693
+	},
+	{
+		"name": "mason county",
+		"state": "KY",
+		"POC": 0.0932630345635618
+	},
+	{
+		"name": "mccracken county",
+		"state": "KY",
+		"POC": 0.14713075911828546
+	},
+	{
+		"name": "mccreary county",
+		"state": "KY",
+		"POC": 0.08995415239974465
+	},
+	{
+		"name": "mclean county",
+		"state": "KY",
+		"POC": 0.029651352231997392
+	},
+	{
+		"name": "meade county",
+		"state": "KY",
+		"POC": 0.08697326053478929
+	},
+	{
+		"name": "menifee county",
+		"state": "KY",
+		"POC": 0.04222530436122669
+	},
+	{
+		"name": "mercer county",
+		"state": "KY",
+		"POC": 0.07386130488305294
+	},
+	{
+		"name": "metcalfe county",
+		"state": "KY",
+		"POC": 0.0408102472445636
+	},
+	{
+		"name": "monroe county",
+		"state": "KY",
+		"POC": 0.056901408450704224
+	},
+	{
+		"name": "montgomery county",
+		"state": "KY",
+		"POC": 0.059843023049330535
+	},
+	{
+		"name": "morgan county",
+		"state": "KY",
+		"POC": 0.0658952588473965
+	},
+	{
+		"name": "muhlenberg county",
+		"state": "KY",
+		"POC": 0.06769642740513357
+	},
+	{
+		"name": "nelson county",
+		"state": "KY",
+		"POC": 0.07842882789349599
+	},
+	{
+		"name": "nicholas county",
+		"state": "KY",
+		"POC": 0.035905901774659514
+	},
+	{
+		"name": "ohio county",
+		"state": "KY",
+		"POC": 0.05338834708677169
+	},
+	{
+		"name": "oldham county",
+		"state": "KY",
+		"POC": 0.10119911974730161
+	},
+	{
+		"name": "owen county",
+		"state": "KY",
+		"POC": 0.040363269424823406
+	},
+	{
+		"name": "owsley county",
+		"state": "KY",
+		"POC": 0.023103057757644395
+	},
+	{
+		"name": "pendleton county",
+		"state": "KY",
+		"POC": 0.028169979437971213
+	},
+	{
+		"name": "perry county",
+		"state": "KY",
+		"POC": 0.03649351657737403
+	},
+	{
+		"name": "pike county",
+		"state": "KY",
+		"POC": 0.02329117423457046
+	},
+	{
+		"name": "powell county",
+		"state": "KY",
+		"POC": 0.03341694311837527
+	},
+	{
+		"name": "pulaski county",
+		"state": "KY",
+		"POC": 0.04587636005478693
+	},
+	{
+		"name": "robertson county",
+		"state": "KY",
+		"POC": 0.028462998102466795
+	},
+	{
+		"name": "rockcastle county",
+		"state": "KY",
+		"POC": 0.016292303084755915
+	},
+	{
+		"name": "rowan county",
+		"state": "KY",
+		"POC": 0.04354047424366313
+	},
+	{
+		"name": "russell county",
+		"state": "KY",
+		"POC": 0.05406460971935502
+	},
+	{
+		"name": "scott county",
+		"state": "KY",
+		"POC": 0.11155357518770613
+	},
+	{
+		"name": "shelby county",
+		"state": "KY",
+		"POC": 0.18174771540469972
+	},
+	{
+		"name": "simpson county",
+		"state": "KY",
+		"POC": 0.12976523799267714
+	},
+	{
+		"name": "spencer county",
+		"state": "KY",
+		"POC": 0.04976487003255646
+	},
+	{
+		"name": "taylor county",
+		"state": "KY",
+		"POC": 0.08649928208312314
+	},
+	{
+		"name": "todd county",
+		"state": "KY",
+		"POC": 0.12729786887912803
+	},
+	{
+		"name": "trigg county",
+		"state": "KY",
+		"POC": 0.09651218346870523
+	},
+	{
+		"name": "trimble county",
+		"state": "KY",
+		"POC": 0.04757407626018179
+	},
+	{
+		"name": "union county",
+		"state": "KY",
+		"POC": 0.15909881093108963
+	},
+	{
+		"name": "warren county",
+		"state": "KY",
+		"POC": 0.19917078015892126
+	},
+	{
+		"name": "washington county",
+		"state": "KY",
+		"POC": 0.10326581231914013
+	},
+	{
+		"name": "wayne county",
+		"state": "KY",
+		"POC": 0.06083706290267053
+	},
+	{
+		"name": "webster county",
+		"state": "KY",
+		"POC": 0.10214804512440116
+	},
+	{
+		"name": "whitley county",
+		"state": "KY",
+		"POC": 0.02796161482461946
+	},
+	{
+		"name": "wolfe county",
+		"state": "KY",
+		"POC": 0.01495039821154115
+	},
+	{
+		"name": "woodford county",
+		"state": "KY",
+		"POC": 0.12609411236627516
+	},
+    {
+		"name": "adams county",
+		"state": "IL",
+		"POC": 0.06621838465652938
+	},
+	{
+		"name": "alexander county",
+		"state": "IL",
+		"POC": 0.33917722617601115
+	},
+	{
+		"name": "bond county",
+		"state": "IL",
+		"POC": 0.10769511749665164
+	},
+	{
+		"name": "boone county",
+		"state": "IL",
+		"POC": 0.270338413267593
+	},
+	{
+		"name": "brown county",
+		"state": "IL",
+		"POC": 0.2613256308908483
+	},
+	{
+		"name": "bureau county",
+		"state": "IL",
+		"POC": 0.11566752482530343
+	},
+	{
+		"name": "calhoun county",
+		"state": "IL",
+		"POC": 0.02173454315256383
+	},
+	{
+		"name": "carroll county",
+		"state": "IL",
+		"POC": 0.05613421880461377
+	},
+	{
+		"name": "cass county",
+		"state": "IL",
+		"POC": 0.2528196262451634
+	},
+	{
+		"name": "champaign county",
+		"state": "IL",
+		"POC": 0.3101354863631378
+	},
+	{
+		"name": "christian county",
+		"state": "IL",
+		"POC": 0.0396235760277365
+	},
+	{
+		"name": "clark county",
+		"state": "IL",
+		"POC": 0.02402694126028107
+	},
+	{
+		"name": "clay county",
+		"state": "IL",
+		"POC": 0.030643203883495146
+	},
+	{
+		"name": "clinton county",
+		"state": "IL",
+		"POC": 0.07449017624194665
+	},
+	{
+		"name": "coles county",
+		"state": "IL",
+		"POC": 0.07809012070089488
+	},
+	{
+		"name": "cook county",
+		"state": "IL",
+		"POC": 0.5733596907169054
+	},
+	{
+		"name": "crawford county",
+		"state": "IL",
+		"POC": 0.08169496973268334
+	},
+	{
+		"name": "cumberland county",
+		"state": "IL",
+		"POC": 0.022385287014675834
+	},
+	{
+		"name": "de witt county",
+		"state": "IL",
+		"POC": 0.042460672720296716
+	},
+	{
+		"name": "dekalb county",
+		"state": "IL",
+		"POC": 0.2269273668455723
+	},
+	{
+		"name": "douglas county",
+		"state": "IL",
+		"POC": 0.0874389930644747
+	},
+	{
+		"name": "dupage county",
+		"state": "IL",
+		"POC": 0.3259618103824704
+	},
+	{
+		"name": "edgar county",
+		"state": "IL",
+		"POC": 0.02301730668375969
+	},
+	{
+		"name": "edwards county",
+		"state": "IL",
+		"POC": 0.023143080531665364
+	},
+	{
+		"name": "effingham county",
+		"state": "IL",
+		"POC": 0.03596212655845683
+	},
+	{
+		"name": "fayette county",
+		"state": "IL",
+		"POC": 0.06800712410948631
+	},
+	{
+		"name": "ford county",
+		"state": "IL",
+		"POC": 0.05339094205694005
+	},
+	{
+		"name": "franklin county",
+		"state": "IL",
+		"POC": 0.02737268969819855
+	},
+	{
+		"name": "fulton county",
+		"state": "IL",
+		"POC": 0.07518928363424576
+	},
+	{
+		"name": "gallatin county",
+		"state": "IL",
+		"POC": 0.02547638773819387
+	},
+	{
+		"name": "greene county",
+		"state": "IL",
+		"POC": 0.02868378440897525
+	},
+	{
+		"name": "grundy county",
+		"state": "IL",
+		"POC": 0.1315274023582873
+	},
+	{
+		"name": "hamilton county",
+		"state": "IL",
+		"POC": 0.028955150320354856
+	},
+	{
+		"name": "hancock county",
+		"state": "IL",
+		"POC": 0.025920487915066636
+	},
+	{
+		"name": "hardin county",
+		"state": "IL",
+		"POC": 0.03376079560324522
+	},
+	{
+		"name": "henderson county",
+		"state": "IL",
+		"POC": 0.029491423412578995
+	},
+	{
+		"name": "henry county",
+		"state": "IL",
+		"POC": 0.08437429722159753
+	},
+	{
+		"name": "iroquois county",
+		"state": "IL",
+		"POC": 0.0907649184922918
+	},
+	{
+		"name": "jackson county",
+		"state": "IL",
+		"POC": 0.23400881057268721
+	},
+	{
+		"name": "jasper county",
+		"state": "IL",
+		"POC": 0.024765868886576482
+	},
+	{
+		"name": "jefferson county",
+		"state": "IL",
+		"POC": 0.13000212291688779
+	},
+	{
+		"name": "jersey county",
+		"state": "IL",
+		"POC": 0.032563266430900656
+	},
+	{
+		"name": "jo daviess county",
+		"state": "IL",
+		"POC": 0.0440781728278785
+	},
+	{
+		"name": "johnson county",
+		"state": "IL",
+		"POC": 0.10509784972215512
+	},
+	{
+		"name": "kane county",
+		"state": "IL",
+		"POC": 0.4274224600537563
+	},
+	{
+		"name": "kankakee county",
+		"state": "IL",
+		"POC": 0.2692286686934518
+	},
+	{
+		"name": "kendall county",
+		"state": "IL",
+		"POC": 0.31334211954415075
+	},
+	{
+		"name": "knox county",
+		"state": "IL",
+		"POC": 0.15350409464979176
+	},
+	{
+		"name": "lake county",
+		"state": "IL",
+		"POC": 0.3836217849785007
+	},
+	{
+		"name": "lasalle county",
+		"state": "IL",
+		"POC": 0.14075771379142166
+	},
+	{
+		"name": "lawrence county",
+		"state": "IL",
+		"POC": 0.14759535655058043
+	},
+	{
+		"name": "lee county",
+		"state": "IL",
+		"POC": 0.13007390896292823
+	},
+	{
+		"name": "livingston county",
+		"state": "IL",
+		"POC": 0.0994165170556553
+	},
+	{
+		"name": "logan county",
+		"state": "IL",
+		"POC": 0.12768187853798307
+	},
+	{
+		"name": "macon county",
+		"state": "IL",
+		"POC": 0.2130296416656251
+	},
+	{
+		"name": "macoupin county",
+		"state": "IL",
+		"POC": 0.02646574366736411
+	},
+	{
+		"name": "madison county",
+		"state": "IL",
+		"POC": 0.1329867739555684
+	},
+	{
+		"name": "marion county",
+		"state": "IL",
+		"POC": 0.0707163015723693
+	},
+	{
+		"name": "marshall county",
+		"state": "IL",
+		"POC": 0.041965378562685784
+	},
+	{
+		"name": "mason county",
+		"state": "IL",
+		"POC": 0.023429897447413726
+	},
+	{
+		"name": "massac county",
+		"state": "IL",
+		"POC": 0.09824281150159744
+	},
+	{
+		"name": "mcdonough county",
+		"state": "IL",
+		"POC": 0.10912337443568493
+	},
+	{
+		"name": "mchenry county",
+		"state": "IL",
+		"POC": 0.18669218322535366
+	},
+	{
+		"name": "mclean county",
+		"state": "IL",
+		"POC": 0.1867744888261805
+	},
+	{
+		"name": "menard county",
+		"state": "IL",
+		"POC": 0.029353886520170548
+	},
+	{
+		"name": "mercer county",
+		"state": "IL",
+		"POC": 0.03854375850229967
+	},
+	{
+		"name": "monroe county",
+		"state": "IL",
+		"POC": 0.0269076421168115
+	},
+	{
+		"name": "montgomery county",
+		"state": "IL",
+		"POC": 0.05887942563525023
+	},
+	{
+		"name": "morgan county",
+		"state": "IL",
+		"POC": 0.10395745439420048
+	},
+	{
+		"name": "moultrie county",
+		"state": "IL",
+		"POC": 0.02758430453072202
+	},
+	{
+		"name": "ogle county",
+		"state": "IL",
+		"POC": 0.12422249866714057
+	},
+	{
+		"name": "peoria county",
+		"state": "IL",
+		"POC": 0.2791565975923518
+	},
+	{
+		"name": "perry county",
+		"state": "IL",
+		"POC": 0.12865748709122202
+	},
+	{
+		"name": "piatt county",
+		"state": "IL",
+		"POC": 0.02704356338717572
+	},
+	{
+		"name": "pike county",
+		"state": "IL",
+		"POC": 0.03238866396761134
+	},
+	{
+		"name": "pope county",
+		"state": "IL",
+		"POC": 0.0749341632750778
+	},
+	{
+		"name": "pulaski county",
+		"state": "IL",
+		"POC": 0.3358950328022493
+	},
+	{
+		"name": "putnam county",
+		"state": "IL",
+		"POC": 0.07649416274612303
+	},
+	{
+		"name": "randolph county",
+		"state": "IL",
+		"POC": 0.1443584418853439
+	},
+	{
+		"name": "richland county",
+		"state": "IL",
+		"POC": 0.03713014890736801
+	},
+	{
+		"name": "rock island county",
+		"state": "IL",
+		"POC": 0.26949019939525937
+	},
+	{
+		"name": "saline county",
+		"state": "IL",
+		"POC": 0.06193861478864246
+	},
+	{
+		"name": "sangamon county",
+		"state": "IL",
+		"POC": 0.17571607627188296
+	},
+	{
+		"name": "schuyler county",
+		"state": "IL",
+		"POC": 0.06353427895981087
+	},
+	{
+		"name": "scott county",
+		"state": "IL",
+		"POC": 0.023025651383558877
+	},
+	{
+		"name": "shelby county",
+		"state": "IL",
+		"POC": 0.018905426643246744
+	},
+	{
+		"name": "st. clair county",
+		"state": "IL",
+		"POC": 0.36434386143265324
+	},
+	{
+		"name": "stark county",
+		"state": "IL",
+		"POC": 0.035754399101460124
+	},
+	{
+		"name": "stephenson county",
+		"state": "IL",
+		"POC": 0.15432154254123778
+	},
+	{
+		"name": "tazewell county",
+		"state": "IL",
+		"POC": 0.04765445399573606
+	},
+	{
+		"name": "union county",
+		"state": "IL",
+		"POC": 0.07121839908725154
+	},
+	{
+		"name": "vermilion county",
+		"state": "IL",
+		"POC": 0.20123287309591065
+	},
+	{
+		"name": "wabash county",
+		"state": "IL",
+		"POC": 0.05373263888888889
+	},
+	{
+		"name": "warren county",
+		"state": "IL",
+		"POC": 0.15186416528140584
+	},
+	{
+		"name": "washington county",
+		"state": "IL",
+		"POC": 0.0293799956794124
+	},
+	{
+		"name": "wayne county",
+		"state": "IL",
+		"POC": 0.028492136910268268
+	},
+	{
+		"name": "white county",
+		"state": "IL",
+		"POC": 0.028736056733397356
+	},
+	{
+		"name": "whiteside county",
+		"state": "IL",
+		"POC": 0.14740371545083825
+	},
+	{
+		"name": "will county",
+		"state": "IL",
+		"POC": 0.36432508183217205
+	},
+	{
+		"name": "williamson county",
+		"state": "IL",
+		"POC": 0.08721113563674039
+	},
+	{
+		"name": "winnebago county",
+		"state": "IL",
+		"POC": 0.30308027688518324
+	},
+	{
+		"name": "woodford county",
+		"state": "IL",
+		"POC": 0.034556280714527154
+	},
+	{
+		"name": "adams county",
+		"state": "IN",
+		"POC": 0.054727897811443105
+	},
+	{
+		"name": "allen county",
+		"state": "IN",
+		"POC": 0.24317754594660151
+	},
+	{
+		"name": "bartholomew county",
+		"state": "IN",
+		"POC": 0.18054643765144007
+	},
+	{
+		"name": "benton county",
+		"state": "IN",
+		"POC": 0.06790123456790123
+	},
+	{
+		"name": "blackford county",
+		"state": "IN",
+		"POC": 0.03087259738050689
+	},
+	{
+		"name": "boone county",
+		"state": "IN",
+		"POC": 0.08644959686334626
+	},
+	{
+		"name": "brown county",
+		"state": "IN",
+		"POC": 0.03047972435727538
+	},
+	{
+		"name": "carroll county",
+		"state": "IN",
+		"POC": 0.05464777607740534
+	},
+	{
+		"name": "cass county",
+		"state": "IN",
+		"POC": 0.20945103345803814
+	},
+	{
+		"name": "clark county",
+		"state": "IN",
+		"POC": 0.15218677621680105
+	},
+	{
+		"name": "clay county",
+		"state": "IN",
+		"POC": 0.0263489037178265
+	},
+	{
+		"name": "clinton county",
+		"state": "IN",
+		"POC": 0.17735115281335845
+	},
+	{
+		"name": "crawford county",
+		"state": "IN",
+		"POC": 0.024298005105417415
+	},
+	{
+		"name": "daviess county",
+		"state": "IN",
+		"POC": 0.08047734700608677
+	},
+	{
+		"name": "dearborn county",
+		"state": "IN",
+		"POC": 0.025597476646851875
+	},
+	{
+		"name": "decatur county",
+		"state": "IN",
+		"POC": 0.04220791445461049
+	},
+	{
+		"name": "dekalb county",
+		"state": "IN",
+		"POC": 0.03917193789534215
+	},
+	{
+		"name": "delaware county",
+		"state": "IN",
+		"POC": 0.11204275638498269
+	},
+	{
+		"name": "dubois county",
+		"state": "IN",
+		"POC": 0.10288749532010483
+	},
+	{
+		"name": "elkhart county",
+		"state": "IN",
+		"POC": 0.24090219587963613
+	},
+	{
+		"name": "fayette county",
+		"state": "IN",
+		"POC": 0.0330274435113843
+	},
+	{
+		"name": "floyd county",
+		"state": "IN",
+		"POC": 0.10310486233157586
+	},
+	{
+		"name": "fountain county",
+		"state": "IN",
+		"POC": 0.03529915575676006
+	},
+	{
+		"name": "franklin county",
+		"state": "IN",
+		"POC": 0.023771860444678793
+	},
+	{
+		"name": "fulton county",
+		"state": "IN",
+		"POC": 0.06969059777711024
+	},
+	{
+		"name": "gibson county",
+		"state": "IN",
+		"POC": 0.05089277756320746
+	},
+	{
+		"name": "grant county",
+		"state": "IN",
+		"POC": 0.12768933692165002
+	},
+	{
+		"name": "greene county",
+		"state": "IN",
+		"POC": 0.02305619948624773
+	},
+	{
+		"name": "hamilton county",
+		"state": "IN",
+		"POC": 0.15308673386369082
+	},
+	{
+		"name": "hancock county",
+		"state": "IN",
+		"POC": 0.06681762357998158
+	},
+	{
+		"name": "harrison county",
+		"state": "IN",
+		"POC": 0.03230902135011724
+	},
+	{
+		"name": "hendricks county",
+		"state": "IN",
+		"POC": 0.15254446277691988
+	},
+	{
+		"name": "henry county",
+		"state": "IN",
+		"POC": 0.05194696906528808
+	},
+	{
+		"name": "howard county",
+		"state": "IN",
+		"POC": 0.12783485171544873
+	},
+	{
+		"name": "huntington county",
+		"state": "IN",
+		"POC": 0.04156626506024097
+	},
+	{
+		"name": "jackson county",
+		"state": "IN",
+		"POC": 0.11686373810223598
+	},
+	{
+		"name": "jasper county",
+		"state": "IN",
+		"POC": 0.07553185149871879
+	},
+	{
+		"name": "jay county",
+		"state": "IN",
+		"POC": 0.04178899980426698
+	},
+	{
+		"name": "jefferson county",
+		"state": "IN",
+		"POC": 0.060201807601832365
+	},
+	{
+		"name": "jennings county",
+		"state": "IN",
+		"POC": 0.038939967550027044
+	},
+	{
+		"name": "johnson county",
+		"state": "IN",
+		"POC": 0.10316943483786124
+	},
+	{
+		"name": "knox county",
+		"state": "IN",
+		"POC": 0.06205935399245779
+	},
+	{
+		"name": "kosciusko county",
+		"state": "IN",
+		"POC": 0.11053916633105115
+	},
+	{
+		"name": "lagrange county",
+		"state": "IN",
+		"POC": 0.05172413793103449
+	},
+	{
+		"name": "lake county",
+		"state": "IN",
+		"POC": 0.457559635257357
+	},
+	{
+		"name": "laporte county",
+		"state": "IN",
+		"POC": 0.19153137740244613
+	},
+	{
+		"name": "lawrence county",
+		"state": "IN",
+		"POC": 0.02916023804275953
+	},
+	{
+		"name": "madison county",
+		"state": "IN",
+		"POC": 0.135132632033897
+	},
+	{
+		"name": "marion county",
+		"state": "IN",
+		"POC": 0.43815352142171426
+	},
+	{
+		"name": "marshall county",
+		"state": "IN",
+		"POC": 0.12224912447576636
+	},
+	{
+		"name": "martin county",
+		"state": "IN",
+		"POC": 0.0196977084349098
+	},
+	{
+		"name": "miami county",
+		"state": "IN",
+		"POC": 0.0906352066674175
+	},
+	{
+		"name": "monroe county",
+		"state": "IN",
+		"POC": 0.14561648173225267
+	},
+	{
+		"name": "montgomery county",
+		"state": "IN",
+		"POC": 0.06977411445563149
+	},
+	{
+		"name": "morgan county",
+		"state": "IN",
+		"POC": 0.029479776986480157
+	},
+	{
+		"name": "newton county",
+		"state": "IN",
+		"POC": 0.08552631578947369
+	},
+	{
+		"name": "noble county",
+		"state": "IN",
+		"POC": 0.12231903485254692
+	},
+	{
+		"name": "ohio county",
+		"state": "IN",
+		"POC": 0.0268936170212766
+	},
+	{
+		"name": "orange county",
+		"state": "IN",
+		"POC": 0.038939224269571415
+	},
+	{
+		"name": "owen county",
+		"state": "IN",
+		"POC": 0.02466464733881437
+	},
+	{
+		"name": "parke county",
+		"state": "IN",
+		"POC": 0.046348231682116076
+	},
+	{
+		"name": "perry county",
+		"state": "IN",
+		"POC": 0.049194011163858305
+	},
+	{
+		"name": "pike county",
+		"state": "IN",
+		"POC": 0.02962305270804746
+	},
+	{
+		"name": "porter county",
+		"state": "IN",
+		"POC": 0.16391903233189933
+	},
+	{
+		"name": "posey county",
+		"state": "IN",
+		"POC": 0.0293782200023597
+	},
+	{
+		"name": "pulaski county",
+		"state": "IN",
+		"POC": 0.04816643730267951
+	},
+	{
+		"name": "putnam county",
+		"state": "IN",
+		"POC": 0.07081647860336385
+	},
+	{
+		"name": "randolph county",
+		"state": "IN",
+		"POC": 0.048733022501520375
+	},
+	{
+		"name": "ripley county",
+		"state": "IN",
+		"POC": 0.03209292472814574
+	},
+	{
+		"name": "rush county",
+		"state": "IN",
+		"POC": 0.032024606477293285
+	},
+	{
+		"name": "scott county",
+		"state": "IN",
+		"POC": 0.03950069115737444
+	},
+	{
+		"name": "shelby county",
+		"state": "IN",
+		"POC": 0.06604216503834201
+	},
+	{
+		"name": "spencer county",
+		"state": "IN",
+		"POC": 0.043398924890269766
+	},
+	{
+		"name": "st. joseph county",
+		"state": "IN",
+		"POC": 0.2566825837116391
+	},
+	{
+		"name": "starke county",
+		"state": "IN",
+		"POC": 0.04818438791041531
+	},
+	{
+		"name": "steuben county",
+		"state": "IN",
+		"POC": 0.05321732092270336
+	},
+	{
+		"name": "sullivan county",
+		"state": "IN",
+		"POC": 0.06928250036286225
+	},
+	{
+		"name": "switzerland county",
+		"state": "IN",
+		"POC": 0.03636870988745233
+	},
+	{
+		"name": "tippecanoe county",
+		"state": "IN",
+		"POC": 0.2338912390411379
+	},
+	{
+		"name": "tipton county",
+		"state": "IN",
+		"POC": 0.04231581726960655
+	},
+	{
+		"name": "union county",
+		"state": "IN",
+		"POC": 0.03175503260561384
+	},
+	{
+		"name": "vanderburgh county",
+		"state": "IN",
+		"POC": 0.14132189957619412
+	},
+	{
+		"name": "vermillion county",
+		"state": "IN",
+		"POC": 0.021357594528326238
+	},
+	{
+		"name": "vigo county",
+		"state": "IN",
+		"POC": 0.12309647041237691
+	},
+	{
+		"name": "wabash county",
+		"state": "IN",
+		"POC": 0.041811846689895474
+	},
+	{
+		"name": "warren county",
+		"state": "IN",
+		"POC": 0.031941923774954625
+	},
+	{
+		"name": "warrick county",
+		"state": "IN",
+		"POC": 0.06433537572621352
+	},
+	{
+		"name": "washington county",
+		"state": "IN",
+		"POC": 0.021686403195890998
+	},
+	{
+		"name": "wayne county",
+		"state": "IN",
+		"POC": 0.09348248436646227
+	},
+	{
+		"name": "wells county",
+		"state": "IN",
+		"POC": 0.048699462821600224
+	},
+	{
+		"name": "white county",
+		"state": "IN",
+		"POC": 0.10285453489336985
+	},
+	{
+		"name": "whitley county",
+		"state": "IN",
+		"POC": 0.03226946178306442
+	},
+	{
+		"name": "adair county",
+		"state": "IA",
+		"POC": 0.0366331096196868
+	},
+	{
+		"name": "adams county",
+		"state": "IA",
+		"POC": 0.02637423653525819
+	},
+	{
+		"name": "allamakee county",
+		"state": "IA",
+		"POC": 0.09191203331628553
+	},
+	{
+		"name": "appanoose county",
+		"state": "IA",
+		"POC": 0.0386286817962337
+	},
+	{
+		"name": "audubon county",
+		"state": "IA",
+		"POC": 0.03129548762736536
+	},
+	{
+		"name": "benton county",
+		"state": "IA",
+		"POC": 0.027295769155780858
+	},
+	{
+		"name": "black hawk county",
+		"state": "IA",
+		"POC": 0.16813484926997285
+	},
+	{
+		"name": "boone county",
+		"state": "IA",
+		"POC": 0.04345505832126249
+	},
+	{
+		"name": "bremer county",
+		"state": "IA",
+		"POC": 0.03974144122576012
+	},
+	{
+		"name": "bucha0 county",
+		"state": "IA",
+		"POC": 0.029421487603305787
+	},
+	{
+		"name": "buena vista county",
+		"state": "IA",
+		"POC": 0.3986748216106014
+	},
+	{
+		"name": "butler county",
+		"state": "IA",
+		"POC": 0.026663896391716877
+	},
+	{
+		"name": "calhoun county",
+		"state": "IA",
+		"POC": 0.04799338022341746
+	},
+	{
+		"name": "carroll county",
+		"state": "IA",
+		"POC": 0.04760724026779073
+	},
+	{
+		"name": "cass county",
+		"state": "IA",
+		"POC": 0.037706450607665934
+	},
+	{
+		"name": "cedar county",
+		"state": "IA",
+		"POC": 0.035378751275030866
+	},
+	{
+		"name": "cerro gordo county",
+		"state": "IA",
+		"POC": 0.08282685512367491
+	},
+	{
+		"name": "cherokee county",
+		"state": "IA",
+		"POC": 0.059457053849577224
+	},
+	{
+		"name": "chickasaw county",
+		"state": "IA",
+		"POC": 0.04022458727897427
+	},
+	{
+		"name": "clarke county",
+		"state": "IA",
+		"POC": 0.1751995742416179
+	},
+	{
+		"name": "clay county",
+		"state": "IA",
+		"POC": 0.05825424575424575
+	},
+	{
+		"name": "clayton county",
+		"state": "IA",
+		"POC": 0.031283833836685856
+	},
+	{
+		"name": "clinton county",
+		"state": "IA",
+		"POC": 0.07062396347110642
+	},
+	{
+		"name": "crawford county",
+		"state": "IA",
+		"POC": 0.3489298454221165
+	},
+	{
+		"name": "dallas county",
+		"state": "IA",
+		"POC": 0.13949257915743743
+	},
+	{
+		"name": "davis county",
+		"state": "IA",
+		"POC": 0.022333333333333334
+	},
+	{
+		"name": "decatur county",
+		"state": "IA",
+		"POC": 0.062261753494282084
+	},
+	{
+		"name": "delaware county",
+		"state": "IA",
+		"POC": 0.028569748985950265
+	},
+	{
+		"name": "des moines county",
+		"state": "IA",
+		"POC": 0.10596145456411837
+	},
+	{
+		"name": "dickinson county",
+		"state": "IA",
+		"POC": 0.03615714451268977
+	},
+	{
+		"name": "dubuque county",
+		"state": "IA",
+		"POC": 0.07526384478630371
+	},
+	{
+		"name": "emmet county",
+		"state": "IA",
+		"POC": 0.12130755864465684
+	},
+	{
+		"name": "fayette county",
+		"state": "IA",
+		"POC": 0.054249363867684475
+	},
+	{
+		"name": "floyd county",
+		"state": "IA",
+		"POC": 0.08221455056898096
+	},
+	{
+		"name": "franklin county",
+		"state": "IA",
+		"POC": 0.15243296921549154
+	},
+	{
+		"name": "fremont county",
+		"state": "IA",
+		"POC": 0.04310344827586207
+	},
+	{
+		"name": "greene county",
+		"state": "IA",
+		"POC": 0.043316831683168314
+	},
+	{
+		"name": "grundy county",
+		"state": "IA",
+		"POC": 0.023708306082406802
+	},
+	{
+		"name": "guthrie county",
+		"state": "IA",
+		"POC": 0.03817008139208532
+	},
+	{
+		"name": "hamilton county",
+		"state": "IA",
+		"POC": 0.09943816421850674
+	},
+	{
+		"name": "hancock county",
+		"state": "IA",
+		"POC": 0.06444026340545625
+	},
+	{
+		"name": "hardin county",
+		"state": "IA",
+		"POC": 0.07105544342870712
+	},
+	{
+		"name": "harrison county",
+		"state": "IA",
+		"POC": 0.02704818848316606
+	},
+	{
+		"name": "henry county",
+		"state": "IA",
+		"POC": 0.10469078881427284
+	},
+	{
+		"name": "howard county",
+		"state": "IA",
+		"POC": 0.027626119240008733
+	},
+	{
+		"name": "humboldt county",
+		"state": "IA",
+		"POC": 0.05869428750784683
+	},
+	{
+		"name": "ida county",
+		"state": "IA",
+		"POC": 0.04358600583090379
+	},
+	{
+		"name": "iowa county",
+		"state": "IA",
+		"POC": 0.04566238260009887
+	},
+	{
+		"name": "jackson county",
+		"state": "IA",
+		"POC": 0.027779206749318382
+	},
+	{
+		"name": "jasper county",
+		"state": "IA",
+		"POC": 0.05722737663036171
+	},
+	{
+		"name": "jefferson county",
+		"state": "IA",
+		"POC": 0.17277944793659467
+	},
+	{
+		"name": "johnson county",
+		"state": "IA",
+		"POC": 0.19807463279078996
+	},
+	{
+		"name": "jones county",
+		"state": "IA",
+		"POC": 0.05483293844591655
+	},
+	{
+		"name": "keokuk county",
+		"state": "IA",
+		"POC": 0.029572516103845405
+	},
+	{
+		"name": "kossuth county",
+		"state": "IA",
+		"POC": 0.0502261527037062
+	},
+	{
+		"name": "lee county",
+		"state": "IA",
+		"POC": 0.07454615681730398
+	},
+	{
+		"name": "linn county",
+		"state": "IA",
+		"POC": 0.1208834349333498
+	},
+	{
+		"name": "louisa county",
+		"state": "IA",
+		"POC": 0.20661531490711374
+	},
+	{
+		"name": "lucas county",
+		"state": "IA",
+		"POC": 0.033255813953488374
+	},
+	{
+		"name": "lyon county",
+		"state": "IA",
+		"POC": 0.035474266269672476
+	},
+	{
+		"name": "madison county",
+		"state": "IA",
+		"POC": 0.03758109927775737
+	},
+	{
+		"name": "mahaska county",
+		"state": "IA",
+		"POC": 0.05960624575695859
+	},
+	{
+		"name": "marion county",
+		"state": "IA",
+		"POC": 0.04321414609208192
+	},
+	{
+		"name": "marshall county",
+		"state": "IA",
+		"POC": 0.2907363661764332
+	},
+	{
+		"name": "mills county",
+		"state": "IA",
+		"POC": 0.04633000198557151
+	},
+	{
+		"name": "mitchell county",
+		"state": "IA",
+		"POC": 0.027583600982429624
+	},
+	{
+		"name": "monona county",
+		"state": "IA",
+		"POC": 0.03250145095763204
+	},
+	{
+		"name": "monroe county",
+		"state": "IA",
+		"POC": 0.03905540417801998
+	},
+	{
+		"name": "montgomery county",
+		"state": "IA",
+		"POC": 0.05102349500857114
+	},
+	{
+		"name": "muscatine county",
+		"state": "IA",
+		"POC": 0.22510781923870243
+	},
+	{
+		"name": "o'brien county",
+		"state": "IA",
+		"POC": 0.07641969024940014
+	},
+	{
+		"name": "osceola county",
+		"state": "IA",
+		"POC": 0.10473313192346426
+	},
+	{
+		"name": "page county",
+		"state": "IA",
+		"POC": 0.07453498378235256
+	},
+	{
+		"name": "palo alto county",
+		"state": "IA",
+		"POC": 0.06167004276389826
+	},
+	{
+		"name": "plymouth county",
+		"state": "IA",
+		"POC": 0.08126464630416651
+	},
+	{
+		"name": "pocahontas county",
+		"state": "IA",
+		"POC": 0.05725940474391902
+	},
+	{
+		"name": "polk county",
+		"state": "IA",
+		"POC": 0.20820913944601876
+	},
+	{
+		"name": "pottawattamie county",
+		"state": "IA",
+		"POC": 0.10660257923309659
+	},
+	{
+		"name": "poweshiek county",
+		"state": "IA",
+		"POC": 0.06717466493731085
+	},
+	{
+		"name": "ringgold county",
+		"state": "IA",
+		"POC": 0.03861871679607683
+	},
+	{
+		"name": "sac county",
+		"state": "IA",
+		"POC": 0.047834584919246984
+	},
+	{
+		"name": "scott county",
+		"state": "IA",
+		"POC": 0.17840560184569482
+	},
+	{
+		"name": "shelby county",
+		"state": "IA",
+		"POC": 0.050026191723415395
+	},
+	{
+		"name": "sioux county",
+		"state": "IA",
+		"POC": 0.12919236838330225
+	},
+	{
+		"name": "story county",
+		"state": "IA",
+		"POC": 0.14916029119515636
+	},
+	{
+		"name": "tama county",
+		"state": "IA",
+		"POC": 0.12216684466595468
+	},
+	{
+		"name": "taylor county",
+		"state": "IA",
+		"POC": 0.08773076294723084
+	},
+	{
+		"name": "union county",
+		"state": "IA",
+		"POC": 0.052446695531410834
+	},
+	{
+		"name": "van buren county",
+		"state": "IA",
+		"POC": 0.02654741624077229
+	},
+	{
+		"name": "wapello county",
+		"state": "IA",
+		"POC": 0.16591838485515742
+	},
+	{
+		"name": "warren county",
+		"state": "IA",
+		"POC": 0.04781797691679944
+	},
+	{
+		"name": "washington county",
+		"state": "IA",
+		"POC": 0.08413384930571363
+	},
+	{
+		"name": "wayne county",
+		"state": "IA",
+		"POC": 0.0271696941468716
+	},
+	{
+		"name": "webster county",
+		"state": "IA",
+		"POC": 0.11405414438502674
+	},
+	{
+		"name": "winnebago county",
+		"state": "IA",
+		"POC": 0.07745798725130384
+	},
+	{
+		"name": "winneshiek county",
+		"state": "IA",
+		"POC": 0.04421989895452954
+	},
+	{
+		"name": "woodbury county",
+		"state": "IA",
+		"POC": 0.24975995810177776
+	},
+	{
+		"name": "worth county",
+		"state": "IA",
+		"POC": 0.049586776859504134
+	},
+	{
+		"name": "wright county",
+		"state": "IA",
+		"POC": 0.1505333545613756
+	},
+	{
+		"name": "fairfield county",
+		"state": "CT",
+		"POC": 0.39356027358342555
+	},
+	{
+		"name": "hartford county",
+		"state": "CT",
+		"POC": 0.406454941012874
+	},
+	{
+		"name": "litchfield county",
+		"state": "CT",
+		"POC": 0.11670631553847602
+	},
+	{
+		"name": "middlesex county",
+		"state": "CT",
+		"POC": 0.1540237385801177
+	},
+	{
+		"name": "new haven county",
+		"state": "CT",
+		"POC": 0.38658238540310286
+	},
+	{
+		"name": "new london county",
+		"state": "CT",
+		"POC": 0.2241993016749244
+	},
+	{
+		"name": "tolland county",
+		"state": "CT",
+		"POC": 0.14876493653837222
+	},
+	{
+		"name": "windham county",
+		"state": "CT",
+		"POC": 0.17157609905636143
+	},
+    {
+		"name": "district of columbia",
+		"state": "DC",
+		"POC": 0.6170224824973185
+	},
+    {
+		"name": "kent county",
+		"state": "DE",
+		"POC": 0.37117365282709947
+	},
+	{
+		"name": "new castle county",
+		"state": "DE",
+		"POC": 0.42624737585301553
+	},
+	{
+		"name": "sussex county",
+		"state": "DE",
+		"POC": 0.22853239406553527
+	}
+]

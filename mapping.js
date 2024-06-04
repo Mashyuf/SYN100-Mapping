@@ -6,7 +6,7 @@ const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser');
 
 try {
     const data = fs.readFileSync('Counties.kml', 'utf8');
-    const table = fs.readFileSync('Table_2012.csv', 'utf8');
+    const table = fs.readFileSync('Table_2022.csv', 'utf8');
     const parser = new XMLParser(options);
     let jObj = parser.parse(data);
     console.log('read file success');
@@ -39,7 +39,7 @@ try {
     let xml = builder.build(jObj);
 
     try {
-        fs.writeFileSync('income_2012.kml', xml)
+        fs.writeFileSync('income_2022.kml', xml)
         console.log('write file success');
     } catch (err) {
         console.log(err);
@@ -49,17 +49,17 @@ try {
 }
 
 function assignColor(location, income) {
-    if (income < 30000) {
+    if (income < 40000) {
         location = Object.assign(location, {styleUrl: "#USCountiesRed"});
-    } else if (income >= 30000 && income < 40000) {
-        location = Object.assign(location, {styleUrl: "USCountiesOrange"});
     } else if (income >= 40000 && income < 50000) {
-        location = Object.assign(location, {styleUrl: "#USCountiesYellow"});
+        location = Object.assign(location, {styleUrl: "USCountiesOrange"});
     } else if (income >= 50000 && income < 60000) {
-        location = Object.assign(location, {styleUrl: "USCountiesLightGreen"});
+        location = Object.assign(location, {styleUrl: "#USCountiesYellow"});
     } else if (income >= 60000 && income < 70000) {
+        location = Object.assign(location, {styleUrl: "USCountiesLightGreen"});
+    } else if (income >= 70000 && income < 80000) {
         location = Object.assign(location, {styleUrl: "USCountiesGreen"});
-    } else if (income >= 70000) {
+    } else if (income >= 80000) {
         location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
     }
 }

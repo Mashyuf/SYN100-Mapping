@@ -11,26 +11,15 @@ try {
     let jObj = parser.parse(data);
     console.log('read file success');
     const rootFolder = jObj.kml.Document.Folder;
-    let tableArr = csvToArr(table, ',');
     console.log(rootFolder.Folder.length);
-    console.log(tableArr.length);
-    for(let i = 0; i < tableArr.length; i++) {
+    console.log(table.length);
+    for(let i = 0; i < table.length; i++) {
         try {
             let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
-            let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
-            folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
-            folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-            coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
-            folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
-            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
+            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].race);
         } catch(err) {
             let folder = rootFolder.Folder[i].Placemark;
-            let coordinatesStr = folder.Polygon.outerBoundaryIs.LinearRing.coordinates;
-            folder = Object.assign(folder, {extrude: 1, altitudeMode: "relativeToGround"});
-            folder.Polygon = Object.assign(folder.Polygon, {extrude: 1, altitudeMode: "relativeToGround"});
-            coordinatesStr = coordinatesStr.replaceAll(',0', ',' + tableArr[i].Income);
-            folder.Polygon.outerBoundaryIs.LinearRing = Object.assign(folder.Polygon.outerBoundaryIs.LinearRing, {coordinates: coordinatesStr});
-            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].Income);
+            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].race);
         }
         
     };
@@ -48,18 +37,16 @@ try {
     console.log(err);
 }
 
-function assignColor(location, income) {
-    if (income < 20000) {
+function assignColor(location, race) {
+    if (race < 0.1) {
         location = Object.assign(location, {styleUrl: "#USCountiesRed"});
-    } else if (income >= 20000 && income < 30000) {
+    } else if (race >= 0.1 && race < 0.2) {
         location = Object.assign(location, {styleUrl: "USCountiesOrange"});
-    } else if (income >= 30000 && income < 40000) {
+    } else if (race >= 0.2 && race < 0.33) {
         location = Object.assign(location, {styleUrl: "#USCountiesYellow"});
-    } else if (income >= 40000 && income < 50000) {
-        location = Object.assign(location, {styleUrl: "USCountiesLightGreen"});
-    } else if (income >= 50000 && income < 60000) {
-        location = Object.assign(location, {styleUrl: "USCountiesGreen"});
-    } else if (income >= 60000) {
+    } else if (race >= 0.33 && race < 0.5) {
+        location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
+    } else if (race >= 0.5) {
         location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
     }
 }

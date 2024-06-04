@@ -6394,45 +6394,50 @@
 		"state": "IA",
 		"POC": 0.1505333545613756
 	},
-	{
-		"name": "fairfield county",
-		"state": "CT",
-		"POC": 0.39356027358342555
-	},
-	{
-		"name": "hartford county",
+    {
+		"name": "capitol",
 		"state": "CT",
 		"POC": 0.406454941012874
 	},
 	{
-		"name": "litchfield county",
+		"name": "greater bridgeport",
+		"state": "CT",
+		"POC": 0.39356027358342555
+	},
+	{
+		"name": "lower connecticut river valley",
+		"state": "CT",
+		"POC": 0.1540237385801177
+	},
+    {
+		"name": "naugatuck valley",
+		"state": "CT",
+		"POC": 0.38658238540310286
+	},
+    {
+		"name": "northeastern connecticut",
+		"state": "CT",
+		"POC": 0.17157609905636143
+	},
+    {
+		"name": "northwest hills",
 		"state": "CT",
 		"POC": 0.11670631553847602
 	},
 	{
-		"name": "middlesex county",
-		"state": "CT",
-		"POC": 0.1540237385801177
-	},
-	{
-		"name": "new haven county",
+		"name": "south central connecticut",
 		"state": "CT",
 		"POC": 0.38658238540310286
 	},
 	{
-		"name": "new london county",
+		"name": "southeastern connecticut",
 		"state": "CT",
 		"POC": 0.2241993016749244
 	},
-	{
-		"name": "tolland county",
+    {
+		"name": "western connecticut",
 		"state": "CT",
-		"POC": 0.14876493653837222
-	},
-	{
-		"name": "windham county",
-		"state": "CT",
-		"POC": 0.17157609905636143
+		"POC": 0.39356027358342555
 	},
     {
 		"name": "district of columbia",

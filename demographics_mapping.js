@@ -5,7 +5,7 @@ const options = {
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser');
 
 try {
-    const data = fs.readFileSync('Counties.kml', 'utf8');
+    const data = fs.readFileSync('demographics-map.kml', 'utf8');
     const table = JSON.parse(fs.readFileSync('filtered_county_demographics.json', 'utf8'));
     const parser = new XMLParser(options);
     let jObj = parser.parse(data);
@@ -15,11 +15,9 @@ try {
     console.log(table.length);
     for(let i = 0; i < table.length; i++) {
         try {
-            let folder = rootFolder.Folder[i].Placemark.MultiGeometry;
-            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].race);
+            assignColor(rootFolder.Folder[i].Placemark, table[i].POC);
         } catch(err) {
-            let folder = rootFolder.Folder[i].Placemark;
-            assignColor(rootFolder.Folder[i].Placemark, tableArr[i].race);
+            assignColor(rootFolder.Folder[i].Placemark, table[i].POC);
         }
         
     };
@@ -28,7 +26,7 @@ try {
     let xml = builder.build(jObj);
 
     try {
-        fs.writeFileSync('complete-map.kml', xml)
+        fs.writeFileSync('demographics-map.kml', xml)
         console.log('write file success');
     } catch (err) {
         console.log(err);
@@ -39,15 +37,15 @@ try {
 
 function assignColor(location, race) {
     if (race < 0.1) {
-        location = Object.assign(location, {styleUrl: "#USCountiesRed"});
+        location = Object.assign(location, {styleUrl: "#USCountiesWhite"});
     } else if (race >= 0.1 && race < 0.2) {
-        location = Object.assign(location, {styleUrl: "USCountiesOrange"});
+        location = Object.assign(location, {styleUrl: "USCountiesPink"});
     } else if (race >= 0.2 && race < 0.33) {
-        location = Object.assign(location, {styleUrl: "#USCountiesYellow"});
+        location = Object.assign(location, {styleUrl: "#USCountiesDarkPink"});
     } else if (race >= 0.33 && race < 0.5) {
-        location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
+        location = Object.assign(location, {styleUrl: "USCountiesLightRed"});
     } else if (race >= 0.5) {
-        location = Object.assign(location, {styleUrl: "USCountiesDarkGreen"});
+        location = Object.assign(location, {styleUrl: "USCountiesRed"});
     }
 }
 

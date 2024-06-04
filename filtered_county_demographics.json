@@ -4255,14 +4255,14 @@
 		"POC": 0.06770810087034144
 	},
 	{
-		"name": "st. louis city",
-		"state": "MO",
-		"POC": 0.5309539018417971
-	},
-	{
 		"name": "st. louis county",
 		"state": "MO",
 		"POC": 0.3266962045051071
+	},
+	{
+		"name": "st. louis city",
+		"state": "MO",
+		"POC": 0.5309539018417971
 	},
 	{
 		"name": "ste. genevieve county",
